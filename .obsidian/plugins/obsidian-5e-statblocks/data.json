@@ -1,0 +1,78 @@
+{
+  "monsters": [],
+  "defaultLayouts": {},
+  "layouts": [
+    {
+      "name": "knight_layout",
+      "blocks": [
+        {
+          "type": "group",
+          "id": "996a7aca6b3b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "group",
+              "id": "7ac828fb8abb",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "group",
+                  "id": "3bdb1888992b",
+                  "properties": [],
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "aacaa8f918ca",
+                      "properties": [
+                        "nom"
+                      ],
+                      "size": 1,
+                      "fallback": "No Name",
+                      "conditioned": false
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "4988b8497aca",
+                  "properties": [
+                    "famille_aspect"
+                  ],
+                  "fallback": "-"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "id": "28682ab95a7a",
+              "properties": []
+            }
+          ]
+        }
+      ],
+      "id": "8978095be8f8"
+    }
+  ],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": true,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 4,
+    "patch": 2
+  },
+  "paths": [
+    "Gameplay/MJ/Bestiaire"
+  ],
+  "autoParse": false,
+  "disableSRD": true,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

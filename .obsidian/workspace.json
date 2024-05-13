@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "44dac44495b76139",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f0cca1ae67706ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0368af66d28a591e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c1c274d2acfdbd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "75f9498d07c0f1a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b2112f626e1f197",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bca61a5f236a0c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "686838dc9fbbb023",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5094337463379
+  },
+  "right": {
+    "id": "c68fd197443fa0d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e7bd880416a273a",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "0b0f43ff6f9856a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "524ef3dd639032de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "533956450ac63c63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63e4aca27a342bce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6bf52c3f7997d43",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "432612604a3b81fb",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fc1e09fb6bae066",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "534dde6487912212",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "9a52dad4e5c9be02",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 475.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "0368af66d28a591e",
+  "lastOpenFiles": [
+    "Gameplay/MJ/Bestiaire/Untitled.md",
+    "knight_obsidian_vault",
+    "Gameplay/MJ/Missions/Knight_codex-02.pdf",
+    "Gameplay/Player/PDF livres/Feuille-de-personnage.pdf",
+    "Gameplay/MJ/Bestiaire/Knight-CFM2.pdf",
+    "Gameplay/MJ/Bestiaire/Knight_Portraits_PNJ.pdf",
+    "Gameplay/MJ/Bestiaire/Knight_Bestiaire.pdf",
+    "Gameplay/MJ/Missions/Knight_Tome_1_Atlas.pdf",
+    "Gameplay/MJ/Missions/Knight_Tome_3_Chanson_de_la_lumire.pdf",
+    "Gameplay/MJ/Missions/Knight_Tome_2_Chanson_des_tnbres.pdf",
+    "Gameplay/MJ/Missions/Knight-CFM1.pdf",
+    "test.md",
+    "2024-05-12.md",
+    "create a link.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Welcome.md",
+    "Untitled 1.canvas"
+  ]
+}
