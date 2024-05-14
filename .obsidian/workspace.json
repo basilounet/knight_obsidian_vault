@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5094337463379
+    "width": 393.5094337463379
   },
   "right": {
     "id": "c68fd197443fa0d0",
@@ -183,19 +183,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0368af66d28a591e",
+  "active": "5b2112f626e1f197",
   "lastOpenFiles": [
+    "Gameplay/MJ/Missions/Briefings audios - GDLFDT/Knight - 9 - Mission 6 - Arthur.mp3",
+    "Gameplay/MJ/Missions/Briefings audios - GDLFDT/Knight - 8 - Mission 5 - Voix masculine.mp3",
+    "Gameplay/MJ/Missions/Briefings audios - GDLFDT/Knight - 8 - Mission 5 - Voix féminine.mp3",
+    "Gameplay/MJ/Missions/Briefings audios - GDLFDT/Knight - 7 - Intermission 2 - Voix masculine.mp3",
+    "Gameplay/MJ/Missions/Briefings audios - GDLFDT/Knight - 7 - Intermission 2 - Voix féminine.mp3",
+    "Gameplay/MJ/Missions/Briefings audios - GDLFDT/Knight - 6 - Mission Graal 1 - Voix masculine.mp3",
+    "Gameplay/MJ/Missions/Briefings audios - GDLFDT/Knight - 6 - Mission Graal 1 - Voix féminine.mp3",
+    "Gameplay/MJ/Missions/Briefings audios - GDLFDT/Knight - 5 - Mission 4 - voix masculine.mp3",
+    "Gameplay/MJ/Missions/Briefings audios - GDLFDT/Knight - 5 - Mission 4 - Voix féminine.mp3",
+    "Gameplay/MJ/Missions/Briefings audios - GDLFDT/Knight - 4 - Mission 3 - Voix masculine.mp3",
+    "Gameplay/MJ/Missions/Briefings audios - GDLFDT/Knight - 4 - Mission 3 - Voix féminine.mp3",
     "Gameplay/MJ/Bestiaire/Untitled.md",
-    "knight_obsidian_vault",
-    "Gameplay/MJ/Missions/Knight_codex-02.pdf",
-    "Gameplay/Player/PDF livres/Feuille-de-personnage.pdf",
-    "Gameplay/MJ/Bestiaire/Knight-CFM2.pdf",
-    "Gameplay/MJ/Bestiaire/Knight_Portraits_PNJ.pdf",
-    "Gameplay/MJ/Bestiaire/Knight_Bestiaire.pdf",
-    "Gameplay/MJ/Missions/Knight_Tome_1_Atlas.pdf",
-    "Gameplay/MJ/Missions/Knight_Tome_3_Chanson_de_la_lumire.pdf",
-    "Gameplay/MJ/Missions/Knight_Tome_2_Chanson_des_tnbres.pdf",
-    "Gameplay/MJ/Missions/Knight-CFM1.pdf",
     "test.md",
     "2024-05-12.md",
     "create a link.md",
