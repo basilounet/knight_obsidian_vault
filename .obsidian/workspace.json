@@ -4,18 +4,80 @@
     "type": "split",
     "children": [
       {
-        "id": "4f0cca1ae67706ff",
-        "type": "tabs",
+        "id": "619a6283c2cc770f",
+        "type": "split",
         "children": [
           {
-            "id": "0368af66d28a591e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            "id": "d02879d1d08a5081",
+            "type": "split",
+            "children": [
+              {
+                "id": "bff588e3cba6caad",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c9793ecb216f60bb",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "d32649c5bea2dcfa",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1bf86e92c811fe14",
+                    "type": "leaf",
+                    "state": {
+                      "type": "pdf",
+                      "state": {
+                        "file": "Gameplay/Player/PDF livres/Knight_LdB.pdf"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "4f0cca1ae67706ff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0368af66d28a591e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Gameplay/Player/Arsenal/effet.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "46fecbd8e66066a8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Gameplay/Player/Arsenal/Effets/En chaîne.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -65,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5094337463379
+    "width": 315.5094337463379
   },
   "right": {
     "id": "c68fd197443fa0d0",
@@ -82,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gameplay/Player/PDF livres/Knight_LdB.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gameplay/Player/PDF livres/Knight_LdB.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gameplay/Player/PDF livres/Knight_LdB.pdf"
+              }
             }
           },
           {
@@ -144,9 +210,23 @@
             "state": {
               "type": "CALENDARIUM"
             }
+          },
+          {
+            "id": "7e5ead34dd0e1899",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
+          },
+          {
+            "id": "6ae3c7200e5c6dc6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       },
       {
         "id": "534dde6487912212",
@@ -183,8 +263,71 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5b2112f626e1f197",
+  "floating": {
+    "id": "169977b98475de7b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "306f4aaf7f12b0e5",
+        "type": "window",
+        "children": [
+          {
+            "id": "e4c3c52935e4b0a0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b40b1a9bfaf0d26a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Gameplay/Player/PDF livres/Knight_LdB.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 356,
+        "y": 64,
+        "width": 1026,
+        "height": 801,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1bf86e92c811fe14",
   "lastOpenFiles": [
+    "Gameplay/Player/Arsenal/Effets/En chaîne.md",
+    "Gameplay/Player/PDF livres/Knight_LdB.pdf",
+    "Gameplay/Player/Arsenal/Effets/Deux mains.md",
+    "Gameplay/Player/Arsenal/effet.md",
+    "Gameplay/Player/Arsenal/Effets/Désignation.md",
+    "Gameplay/Player/Arsenal/Effets/Destructeur.md",
+    "Gameplay/Player/Arsenal/Effets/Choc.md",
+    "Gameplay/Player/Arsenal/Effets/Dispersion X.md",
+    "jet d’attaque.md",
+    "Gameplay/Player/Arsenal/Effets/Réaction X.md",
+    "Gameplay/Player/Arsenal/Shotgun escamotable.md",
+    "Welcome.md",
+    "Gameplay/Player/Arsenal/Effets/Démoralisant.md",
+    "action de combat.md",
+    "create a link.md",
+    "parasitage X.md",
+    "Gameplay/Player/Arsenal/Effets/Dégâts continus.md",
+    "Gameplay/Player/Arsenal/Effets/Défense.md",
+    "Gameplay/Player/Arsenal/Effets/Cadence.md",
+    "Gameplay/Player/Arsenal/Effets/Anti-Anathème.md",
+    "Gameplay/Player/Arsenal/Effets/Barrage.md",
+    "Gameplay/Player/Arsenal/Effets/Assistance à l’attaque.md",
+    "Gameplay/Player/Arsenal/Effets/Assassin.md",
+    "Gameplay/Player/Arsenal/Effets/Chargeur.md",
+    "Gameplay/Player/Arsenal/Effets/Anti-véhicule.md",
+    "Gameplay/Player/Arsenal/Effets/Artillerie.md",
+    "Gameplay/Player/Arsenal/Effets",
+    "Gameplay/Player/Arsenal/Knight_cartes_arsenal.pdf",
     "Gameplay/MJ/Musiques/LAMORAK.mp3",
     "Gameplay/MJ/Musiques/LANCELOT.mp3",
     "Gameplay/MJ/Musiques/Bohort.mp3",
@@ -192,17 +335,7 @@
     "Gameplay/MJ/Musiques/Arthur.mp3",
     "Gameplay/MJ/Musiques/BEDIVERE.mp3",
     "Gameplay/MJ/Musiques/kay.mp3",
-    "Gameplay/MJ/Musiques/Dagonet.mp3",
-    "Gameplay/MJ/Musiques/GAUVAIN.mp3",
-    "Gameplay/MJ/Musiques/SAGRAMOR.mp3",
-    "Gameplay/MJ/Musiques/LE_FOU.mp3",
-    "Gameplay/MJ/Bestiaire/Untitled.md",
-    "test.md",
-    "2024-05-12.md",
-    "create a link.md",
-    "Untitled.md",
     "Untitled.canvas",
-    "Welcome.md",
     "Untitled 1.canvas"
   ]
 }

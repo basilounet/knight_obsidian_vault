@@ -66,10 +66,10 @@
   "paths": [
     "Gameplay/MJ/Bestiaire"
   ],
-  "autoParse": false,
+  "autoParse": true,
   "disableSRD": true,
   "tryToRenderLinks": true,
-  "debug": false,
+  "debug": true,
   "notifiedOfFantasy": false,
   "hideConditionHelp": false,
   "alwaysImport": false,

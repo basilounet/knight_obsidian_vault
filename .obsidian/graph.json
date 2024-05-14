@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:joueur",
@@ -32,6 +32,6 @@
   "repelStrength": 10.0736268590782,
   "linkStrength": 0.498895597113827,
   "linkDistance": 253,
-  "scale": 1.7404979449818476,
-  "close": false
+  "scale": 0.3213364015236087,
+  "close": true
 }
