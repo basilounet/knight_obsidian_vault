@@ -191,8 +191,17 @@
             "state": {
               "type": "CALENDARIUM"
             }
+          },
+          {
+            "id": "eec2800e03433a11",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       },
       {
         "id": "534dde6487912212",
@@ -211,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5,
-    "collapsed": true
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,13 +234,17 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f02647ec607f8d1",
+  "active": "eec2800e03433a11",
   "lastOpenFiles": [
-    "Gameplay/Player/Arsenal/Effet.md",
+    "Excalidraw/Drawing 2024-05-15 15.35.25.excalidraw.md",
     "Gameplay/Player/Arsenal/Meta-Armure.md",
+    "Excalidraw",
+    "Gameplay/Player/Arsenal/Effet.md",
     "PulseRifle-1Ggg4.ttf",
     "Logo_barbarian.png",
     "Logo_barbarian.png.crdownload",
@@ -268,7 +280,6 @@
     "Gameplay/MJ/Musiques/LANCELOT.mp3",
     "Gameplay/MJ/Musiques/Bohort.mp3",
     "Gameplay/MJ/Musiques/Bohort (1).mp3",
-    "Gameplay/MJ/Musiques/Arthur.mp3",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -1,0 +1,6 @@
+{
+  "font": "all",
+  "force_mode": false,
+  "custom_css_mode": true,
+  "custom_css": "\n.PulseRifle-1Ggg4 * {\n\t\tfont-family: PulseRifle-1Ggg4 !important;\n\t\t}"
+}
