@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Meta-Armure.md",
+                "file": "Gameplay/Player/Arsenal/Méta-armure.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +229,8 @@
   },
   "active": "f474c0ee93b02897",
   "lastOpenFiles": [
-    "Gameplay/Player/Arsenal/Meta-Armure.md",
+    "Gameplay/Player/Arsenal/Méta-armure.md",
+    "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
     "Gameplay/Player/Arsenal/Effet.md",
     "Gameplay/Player/Arsenal/Armures/Barbarian.md",
     "barbarian.png",
