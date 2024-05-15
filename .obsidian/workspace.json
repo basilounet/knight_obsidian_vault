@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "f474c0ee93b02897",
+            "id": "f5442b1aa11e7865",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7ebcd65c3c945327",
+            "id": "975e0bd9932c5f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Bard/Bard.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Bard/Bard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Bard/Bard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md"
+                "file": "Gameplay/Player/Arsenal/Armures/Bard/Bard.md"
               }
             }
           },
@@ -220,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 475.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,13 +241,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7ebcd65c3c945327",
+  "active": "975e0bd9932c5f0d",
   "lastOpenFiles": [
     "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
-    "Knight-2023.pdf",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
-    "Gameplay/Player/Arsenal/Méta-armure.md",
+    "Gameplay/Player/Arsenal/Armures/Bard/Bard.md",
     "conflict-files-obsidian-git.md",
+    "bard.png",
+    "bard.png.crdownload",
+    "Gameplay/Player/Arsenal/Méta-armure.md",
+    "Gameplay/Player/Arsenal/Armures/Bard",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
+    "Untitled.canvas",
+    "Knight-2023.pdf",
     "Gameplay/Player/Arsenal/Armures/Barbarian",
     "Gameplay/Player/Arsenal/Effet.md",
     "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
@@ -277,11 +283,7 @@
     "Gameplay/Player/Arsenal/Effets/Meurtrier.md",
     "Gameplay/Player/Arsenal/Effets/Lumière.md",
     "Gameplay/Player/Arsenal/Effets/Défense X.md",
-    "Gameplay/Player/Arsenal/Effets/Assistance à l’attaque.md",
     "Gameplay/Player/Arsenal/Effets",
-    "Gameplay/Player/Arsenal/Knight_cartes_arsenal.pdf",
-    "Gameplay/MJ/Musiques/LAMORAK.mp3",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

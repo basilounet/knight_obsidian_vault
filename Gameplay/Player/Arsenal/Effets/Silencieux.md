@@ -9,4 +9,4 @@ Le personnage ne peut être repéré par un autre personnage parce qu’il utili
 
 # Exemple : 
 
-Le personnage d’[[Élodie]], alors déguisé en désespéré grâce à son mode Changeling, tire sur un chef de guerre avec son [[arbalète magnétique]]. Bien cachée, elle réussit à tou- cher sa cible qui ne la repère pas grâce à l’[[Effet]] [[silencieux]] de l’arme. Elle effectue son jet de dégâts pour un carreau barbelé et obtient 15. Grâce à l’[[Effet]] [[silencieux]] et parce que son personnage utilisait son mode Changeling, elle ajoute son score de [[Discrétion]], c’est-à-dire 6, à ses dégâts, pour un total de 21 points de dégâts 
+Le personnage d’[[Élodie]], alors déguisé en désespéré grâce à son [[mode Changeling]], tire sur un chef de guerre avec son [[arbalète magnétique]]. Bien cachée, elle réussit à tou- cher sa cible qui ne la repère pas grâce à l’[[Effet]] [[silencieux]] de l’arme. Elle effectue son jet de dégâts pour un carreau barbelé et obtient 15. Grâce à l’[[Effet]] [[silencieux]] et parce que son personnage utilisait son mode Changeling, elle ajoute son score de [[Discrétion]], c’est-à-dire 6, à ses dégâts, pour un total de 21 points de dégâts 
