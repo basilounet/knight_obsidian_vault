@@ -82,74 +82,39 @@
   "version": "11.0.3",
   "viewResults": [
     {
+      "result": 38,
+      "original": "1d10 + 3d8 + 3d6 + 2d4",
+      "resultText": "[10] + [5, 3, 2] + [6, 5, 2] + [1, 4]",
+      "timestamp": 1715782727811,
+      "id": "6bKsC_AuJ_D4"
+    },
+    {
       "result": 32,
-      "original": "7d6 + 3",
-      "resultText": "[4, 2, 4, 6, 4, 3, 6] + 3",
-      "timestamp": 1715711971365,
-      "id": "t-OWT8X9Pq5m"
+      "original": "1d10 + 3d8 + 3d6 + 2d4",
+      "resultText": "[4] + [1, 5, 4] + [1, 6, 6] + [1, 4]",
+      "timestamp": 1715782735211,
+      "id": "zV7SlL4EsKA3"
     },
     {
-      "result": 20,
-      "original": "1d8 + 2d6 + 2",
-      "resultText": "[7] + [5, 6] + 2",
-      "timestamp": 1715711993773,
-      "id": "1IL-A3d3IfNh"
+      "result": 22,
+      "original": "1d10 + 3d8 + 3d6 + 2d4",
+      "resultText": "[5] + [2, 1, 2] + [2, 3, 2] + [2, 3]",
+      "timestamp": 1715782740161,
+      "id": "Fjz84i6ixkss"
     },
     {
-      "result": 215,
-      "original": "26d20",
-      "resultText": "[13, 2, 10, 7, 1, 8, 16, 1, 7, 15, 14, 11, 11, 6, 17, 7, 8, 2, 9, 2, 6, 19, 3, 5, 8, 7]",
-      "timestamp": 1715712007926,
-      "id": "AgnuLgTtNxfp"
+      "result": 35,
+      "original": "1d10 + 3d8 + 3d6 + 2d4",
+      "resultText": "[8] + [7, 2, 2] + [6, 3, 2] + [2, 3]",
+      "timestamp": 1715782744228,
+      "id": "zm4YCYX5C5GD"
     },
     {
-      "result": 4,
-      "original": "d6",
-      "resultText": "[4]",
-      "timestamp": 1715712016681,
-      "id": "0hiLoU51y1b5"
-    },
-    {
-      "result": 5,
-      "original": "d6",
-      "resultText": "[5]",
-      "timestamp": 1715712017488,
-      "id": "aJH5ioBxcaue"
-    },
-    {
-      "result": 2,
-      "original": "d6",
-      "resultText": "[2]",
-      "timestamp": 1715712018070,
-      "id": "m0b1IjNUtV1Q"
-    },
-    {
-      "result": 2,
-      "original": "d6",
-      "resultText": "[2]",
-      "timestamp": 1715712018977,
-      "id": "6YS-g2Xa-8mS"
-    },
-    {
-      "result": 2,
-      "original": "d6",
-      "resultText": "[2]",
-      "timestamp": 1715712019739,
-      "id": "91uPTyiVs8EA"
-    },
-    {
-      "result": 4,
-      "original": "d6",
-      "resultText": "[4]",
-      "timestamp": 1715712021025,
-      "id": "Bsmnt7F5c8Mf"
-    },
-    {
-      "result": 5,
-      "original": "d20",
-      "resultText": "[5]",
-      "timestamp": 1715712024624,
-      "id": "EGPtLSphpgrV"
+      "result": 40,
+      "original": "12d6",
+      "resultText": "[3, 2, 6, 3, 4, 4, 2, 5, 1, 3, 4, 3]",
+      "timestamp": 1715782753561,
+      "id": "SkuleN4sJCA2"
     }
   ]
 }
