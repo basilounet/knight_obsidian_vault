@@ -1,5 +1,12 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Barbarian",
+      {
+        "name": "Barbarian"
+      }
+    ]
+  ],
   "defaultLayouts": {},
   "layouts": [
     {
