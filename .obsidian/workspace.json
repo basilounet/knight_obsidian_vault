@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f0cca1ae67706ff",
+        "id": "52a275007864e4f6",
         "type": "tabs",
         "children": [
           {
-            "id": "0368af66d28a591e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "46fecbd8e66066a8",
+            "id": "57c51ba536bb51d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effets/Ignore CdF.md",
+                "file": "Gameplay/Player/Arsenal/Effet.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gameplay/Player/Arsenal/Effet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gameplay/Player/Arsenal/Effet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gameplay/Player/Arsenal/Effet.md"
+              }
             }
           },
           {
@@ -208,11 +204,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0368af66d28a591e",
+  "active": "57c51ba536bb51d2",
   "lastOpenFiles": [
-    "Gameplay/Player/Arsenal/effet.md",
-    "Gameplay/Player/Arsenal/Effets/Anti-Anathème.md",
     "Gameplay/Player/Arsenal/Effets/Ignore CdF.md",
+    "Gameplay/Player/Arsenal/Effet.md",
+    "Gameplay/Player/Arsenal/Effets/Anti-Anathème.md",
     "Gameplay/Player/PDF livres/Knight_LdB.pdf",
     "Gameplay/Player/Arsenal/Effets/Ultraviolence.md",
     "Gameplay/Player/Arsenal/Effets/Anti-véhicule.md",

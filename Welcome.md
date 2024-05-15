@@ -1,1 +1,1 @@
-try to go into [[effet]]
+try to go into [[Effet]]
