@@ -29,5 +29,4 @@ Seul bémol, ce module tire trop sur le réacteur standard mis en place lors de 
 |   1   |     1     |   1    |   1    |
 
 # Capacités
-## Mode Goliath
 ![[Mode Goliath]]

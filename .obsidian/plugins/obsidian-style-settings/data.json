@@ -79,5 +79,14 @@
   "ITS@@accent@@dark": "#4E76D0",
   "ITS@@accent@@light": "#4E76D0",
   "ITS@@lite-accent@@light": "#4E76D0",
-  "ITS@@lite-accent@@dark": "#4E76D0"
+  "ITS@@lite-accent@@dark": "#4E76D0",
+  "ITS@@folder-icon": "\"\\e802\"",
+  "ITS@@file-icon": "\"\\e810\"",
+  "ITS@@vault-icon": true,
+  "ITS@@vault-title-none": false,
+  "ITS@@background-image-blur": 6,
+  "ITS@@background-image-opacity": 77,
+  "ITS@@background-image-sidebar-opacity": 20,
+  "ITS@@background-image-width": 50,
+  "ITS@@background-image-height": 0
 }
