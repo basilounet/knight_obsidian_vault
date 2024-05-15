@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "fonts"
-  ]
+  ],
+  "textFontFamily": "Inter,HoloLens MDL2 Assets"
 }

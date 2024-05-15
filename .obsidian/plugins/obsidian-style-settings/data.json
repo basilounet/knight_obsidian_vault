@@ -38,5 +38,5 @@
   "ITS@@navbar-bottom": false,
   "ITS@@ITS-Sidebar-Ribbon-Float": "sidebar-ribbon-mini-float",
   "ITS@@ITS-Sidebar-Ribbon-Float-Position": "sidebar-float-bottom",
-  "ITS@@vault-font": "'Calisto MT', 'Palatino Black', 'Book Antiqua', 'Georgia', 'Suez One', serif"
+  "ITS@@vault-font": "'HoloLens MDL2 Assets', 'Calisto MT', 'Palatino Black', 'Book Antiqua', 'Georgia', 'Suez One', serif"
 }
