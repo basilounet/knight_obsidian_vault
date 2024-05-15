@@ -3,7 +3,8 @@
   "cssTheme": "ITS Theme",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "fonts"
+    "fonts",
+    "custom"
   ],
   "textFontFamily": "Inter,HoloLens MDL2 Assets"
 }

@@ -89,5 +89,7 @@
   "ITS@@background-image-sidebar-opacity": 20,
   "ITS@@background-image-width": 50,
   "ITS@@background-image-height": 0,
-  "ITS@@file-line-width": 700
+  "ITS@@file-line-width": 700,
+  "ITS@@radius-s": 6,
+  "ITS@@scrollbar-width": 9
 }

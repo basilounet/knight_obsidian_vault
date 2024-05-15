@@ -169,7 +169,9 @@
                 "pg"
               ],
               "text": null,
-              "fallback": "0PG"
+              "fallback": "0PG",
+              "headingProp": false,
+              "diceCallback": ""
             }
           ],
           "hasRule": true
@@ -220,14 +222,135 @@
         }
       ],
       "name": "Arme_layout",
-      "id": "0b891a3ab8da"
+      "id": "0b891a3ab8da",
+      "cssProperties": {
+        "imageWidth": "85px",
+        "imageHeight": "60px",
+        "primaryColor": "#0d1978",
+        "ruleColor": "#5078c8",
+        "backgroundColor": "#1a1e24",
+        "borderColor": "#1e1e1e",
+        "barColor": "#324b82",
+        "barBorderSize": "0px",
+        "imageBorderSize": "1px",
+        "imageBorderColor": "#202865",
+        "fontColor": "#f2f2f2"
+      }
+    },
+    {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "587adac96b38",
+          "properties": [],
+          "nested": [
+            {
+              "type": "image",
+              "id": "ebd8485959f9",
+              "properties": [
+                "logo_image"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "group",
+              "id": "c8598869e808",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "heading",
+                  "id": "a8ba7bb99a39",
+                  "properties": [
+                    "name"
+                  ],
+                  "size": 1,
+                  "fallback": "-",
+                  "hasRule": true
+                },
+                {
+                  "type": "text",
+                  "id": "8abae859fb29",
+                  "properties": [
+                    "type"
+                  ],
+                  "text": null,
+                  "fallback": "-"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "5a6a88f9fbc8",
+              "properties": [
+                "pg"
+              ],
+              "text": null,
+              "fallback": "0PG"
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "ea8b087b4bfa",
+          "properties": [],
+          "nested": [
+            {
+              "type": "text",
+              "id": "18d9189b58c9",
+              "properties": [
+                "surnoms"
+              ],
+              "text": null,
+              "fallback": "-",
+              "conditioned": false,
+              "heading": "surnoms : "
+            },
+            {
+              "type": "text",
+              "id": "d87809d9b91a",
+              "properties": [
+                "description"
+              ],
+              "text": null,
+              "fallback": "-",
+              "conditioned": true
+            },
+            {
+              "type": "text",
+              "id": "5b3aa9d828c9",
+              "properties": [
+                "citation"
+              ],
+              "text": null,
+              "fallback": "-",
+              "conditioned": true
+            }
+          ],
+          "hasRule": false
+        },
+        {
+          "type": "layout",
+          "id": "18aa2a69087b",
+          "layout": "c9eb4bea09bb"
+        }
+      ],
+      "name": "Arme_layout Copy",
+      "id": "3b79f82aa81b",
+      "cssProperties": {
+        "primaryColor": "#3c5aa0",
+        "ruleColor": "#5078cd",
+        "backgroundColor": "#191e23",
+        "borderSize": "0px",
+        "barColor": "#324b82"
+      }
     }
   ],
   "default": "basic-5e-layout",
   "useDice": true,
   "renderDice": true,
   "export": true,
-  "showAdvanced": false,
+  "showAdvanced": true,
   "version": {
     "major": 4,
     "minor": 4,
