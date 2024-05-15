@@ -1,3 +1,6 @@
+---
+tags:
+---
 ___
 # Mode Goliath
 La méta-armure, en générant de la matière grâce aux nanomachines qui composent son enveloppe, peut augmenter sa masse musculaire et ainsi augmenter en taille à mesure qu’elle gagne en puissance. En activant ce mode, la méta-armure peut ainsi atteindre 6 mètres de haut pour un gain en force et en endurance considérable… Au détriment des réflexes et de la rapidité.
