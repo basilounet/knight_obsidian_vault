@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "ITS Theme",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "fonts"
+  ]
 }
