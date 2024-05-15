@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Meta-Armure.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Barbarian.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Meta-Armure.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Barbarian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Meta-Armure.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Barbarian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Meta-Armure.md"
+                "file": "Gameplay/Player/Arsenal/Armures/Barbarian.md"
               }
             }
           },
@@ -229,9 +229,12 @@
   },
   "active": "f474c0ee93b02897",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Gameplay/Player/Arsenal/Meta-Armure.md",
     "Gameplay/Player/Arsenal/Effet.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian.md",
+    "barbarian.png",
+    "barbarian.png.crdownload",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-05-15 15.35.25.excalidraw.md",
     "Excalidraw",
     "PulseRifle-1Ggg4.ttf",
@@ -260,14 +263,11 @@
     "Gameplay/Player/Arsenal/Effets/Assistance à l’attaque.md",
     "Gameplay/Player/Arsenal/Effets/Lesté.md",
     "Gameplay/Player/Arsenal/Effets/Jumelé (ambidextrie).md",
-    "Gameplay/Player/Arsenal/Effets/Jumelé (akimbo).md",
-    "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
     "Gameplay/Player/Arsenal/Effets",
     "Gameplay/Player/Arsenal/Knight_cartes_arsenal.pdf",
     "Gameplay/MJ/Musiques/LAMORAK.mp3",
     "Gameplay/MJ/Musiques/LANCELOT.mp3",
     "Gameplay/MJ/Musiques/Bohort.mp3",
-    "Gameplay/MJ/Musiques/Bohort (1).mp3",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
