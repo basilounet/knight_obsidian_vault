@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b93629d911b4fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effets/Destructeur.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effets/Destructeur.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effets/Destructeur.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -204,8 +217,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0b0f43ff6f9856a5",
+  "active": "4b93629d911b4fe2",
   "lastOpenFiles": [
+    "Gameplay/Player/Arsenal/Effets/Destructeur.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2024-05-15 15.35.25.excalidraw.md",
+    "Excalidraw",
     "Gameplay/Player/Arsenal/Effets/Parasitage.md",
     "Gameplay/Player/Arsenal/Effets/Ignore CdF.md",
     "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
@@ -229,9 +246,6 @@
     "Gameplay/Player/Arsenal/Effets/Jumelé (ambidextrie).md",
     "Gameplay/Player/Arsenal/Effets/Jumelé (akimbo).md",
     "Gameplay/Player/Arsenal/Effets/Fureur.md",
-    "Gameplay/Player/Arsenal/Effets/En chaîne.md",
-    "Gameplay/Player/Arsenal/Effets/Dispersion X.md",
-    "Gameplay/Player/Arsenal/Effets/Deux mains.md",
     "PulseRifle-1Ggg4.ttf",
     "Logo_barbarian.png",
     "Logo_barbarian.png.crdownload",
@@ -244,7 +258,6 @@
     "Gameplay/MJ/Musiques/LANCELOT.mp3",
     "Gameplay/MJ/Musiques/Bohort.mp3",
     "Gameplay/MJ/Musiques/Bohort (1).mp3",
-    "Gameplay/MJ/Musiques/Arthur.mp3",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
