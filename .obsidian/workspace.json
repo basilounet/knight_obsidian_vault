@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fecb73a2ada930b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Welcome.md"
               }
             }
           },
@@ -220,18 +207,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fecb73a2ada930b4",
+  "active": "33938d564a37f54a",
   "lastOpenFiles": [
+    "Gameplay/Player/Arsenal/Effet.md",
+    "Welcome.md",
     "barbarian.png",
+    "Logo_barbarian.png",
+    "bedivere.jpg",
+    "conflict-files-obsidian-git.md",
     "Gameplay/Player/Arsenal/Méta-armure.md",
     "Gameplay/Player/Arsenal/Armures/Barbarian.md",
     "Gameplay/Player/Arsenal/Armures",
-    "Gameplay/Player/Arsenal/Effet.md",
-    "conflict-files-obsidian-git.md",
-    "Welcome.md",
     "Gameplay/Player/Arsenal/Meta-Armure.md",
-    "Logo_barbarian.png",
-    "bedivere.jpg",
     "Gameplay/Player/Arsenal/Effets/Désignation.md",
     "Gameplay/Player/Arsenal/Effets/Choc.md",
     "Gameplay/Player/Arsenal/Effets/En chaîne.md",
