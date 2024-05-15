@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57c51ba536bb51d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Player/Arsenal/Effet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f069f8e66679b456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Player/Arsenal/Effet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0f02647ec607f8d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Meta-Armure.md",
-                "mode": "source",
+                "file": "Gameplay/Player/Arsenal/Effet.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Meta-Armure.md",
+                "file": "Gameplay/Player/Arsenal/Effet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Meta-Armure.md",
+                "file": "Gameplay/Player/Arsenal/Effet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Meta-Armure.md"
+                "file": "Gameplay/Player/Arsenal/Effet.md"
               }
             }
           },
@@ -231,37 +206,38 @@
   },
   "active": "0f02647ec607f8d1",
   "lastOpenFiles": [
-    "Gameplay/Player/Arsenal/Effet.md",
-    "Gameplay/Player/Arsenal/Meta-Armure.md",
-    "PulseRifle-1Ggg4.ttf",
-    "Logo_barbarian.png",
-    "Logo_barbarian.png.crdownload",
-    "Pasted image 20240515145606.png",
-    "conflict-files-obsidian-git.md",
-    "Welcome.md",
-    "bedivere.jpg",
-    "Gameplay/Player/Arsenal/Effets/Ignore CdF.md",
-    "Gameplay/Player/Arsenal/Effets/Anti-Anathème.md",
-    "Gameplay/Player/PDF livres/Knight_LdB.pdf",
     "Gameplay/Player/Arsenal/Effets/Ultraviolence.md",
-    "Gameplay/Player/Arsenal/Effets/Anti-véhicule.md",
-    "Gameplay/Player/Arsenal/Effets/Précision.md",
     "Gameplay/Player/Arsenal/Effets/Tir en sécurité.md",
     "Gameplay/Player/Arsenal/Effets/Tir en rafale.md",
     "Gameplay/Player/Arsenal/Effets/Soumission.md",
     "Gameplay/Player/Arsenal/Effets/Silencieux.md",
+    "Gameplay/Player/Arsenal/Effets/Réaction X.md",
+    "Gameplay/Player/Arsenal/Effets/Précision.md",
     "Gameplay/Player/Arsenal/Effets/Perce armure.md",
     "Gameplay/Player/Arsenal/Effets/Pénétrant.md",
     "Gameplay/Player/Arsenal/Effets/Parasitage.md",
     "Gameplay/Player/Arsenal/Effets/Orfèvrerie.md",
     "Gameplay/Player/Arsenal/Effets/Meurtrier.md",
     "Gameplay/Player/Arsenal/Effets/Lumière.md",
-    "Gameplay/Player/Arsenal/Effets/Défense X.md",
-    "Gameplay/Player/Arsenal/Effets/Assistance à l’attaque.md",
+    "Gameplay/Player/Arsenal/Effets/Lourd.md",
     "Gameplay/Player/Arsenal/Effets/Lesté.md",
     "Gameplay/Player/Arsenal/Effets/Jumelé (ambidextrie).md",
     "Gameplay/Player/Arsenal/Effets/Jumelé (akimbo).md",
+    "Gameplay/Player/Arsenal/Effets/Ignore CdF.md",
     "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
+    "Gameplay/Player/Arsenal/Effets/Fureur.md",
+    "Gameplay/Player/Arsenal/Effets/En chaîne.md",
+    "Gameplay/Player/Arsenal/Effets/Dispersion X.md",
+    "Gameplay/Player/Arsenal/Effets/Deux mains.md",
+    "Gameplay/Player/Arsenal/Effets/Destructeur.md",
+    "Gameplay/Player/Arsenal/Effets/Désignation.md",
+    "Gameplay/Player/Arsenal/Effets/Démoralisant.md",
+    "PulseRifle-1Ggg4.ttf",
+    "Logo_barbarian.png",
+    "Logo_barbarian.png.crdownload",
+    "Pasted image 20240515145606.png",
+    "bedivere.jpg",
+    "Gameplay/Player/PDF livres/Knight_LdB.pdf",
     "Gameplay/Player/Arsenal/Effets",
     "Gameplay/Player/Arsenal/Knight_cartes_arsenal.pdf",
     "Gameplay/MJ/Musiques/LAMORAK.mp3",

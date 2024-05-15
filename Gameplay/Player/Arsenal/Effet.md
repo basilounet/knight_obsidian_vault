@@ -2,6 +2,9 @@
 tags:
   - "#Joueur"
 ---
+___
+# Effets
+
 - [[Anti-Anathème]]
 - [[Anti-véhicule]]
 - [[Artillerie]]
