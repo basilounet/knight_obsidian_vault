@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "tag:#Joueur  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 10.0736268590782,
   "linkStrength": 0.498895597113827,
   "linkDistance": 253,
-  "scale": 0.3438020541762702,
-  "close": true
+  "scale": 0.3003387451171875,
+  "close": false
 }

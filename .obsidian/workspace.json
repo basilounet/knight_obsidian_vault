@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "901ad2f68e2d5a38",
+            "id": "f8c5135b4cd2c086",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effets/Précision.md",
+                "file": "Gameplay/Player/Arsenal/Armes/SHOTGUN ESCAMOTABLE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effets/Précision.md",
+                "file": "Gameplay/Player/Arsenal/Armes/SHOTGUN ESCAMOTABLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effets/Précision.md",
+                "file": "Gameplay/Player/Arsenal/Armes/SHOTGUN ESCAMOTABLE.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effets/Précision.md"
+                "file": "Gameplay/Player/Arsenal/Armes/SHOTGUN ESCAMOTABLE.md"
               }
             }
           },
@@ -146,11 +146,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,23 +165,43 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "calendarium:Open Calendarium": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "901ad2f68e2d5a38",
+  "active": "f8c5135b4cd2c086",
   "lastOpenFiles": [
+    "Gameplay/Player/Arsenal/Méta-armure.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
+    "Gameplay/Player/Arsenal/Armes/SHOTGUN ESCAMOTABLE.md",
+    "logo_distance.png",
+    "logo_cac.png",
+    "Screenshot from 2024-05-15 21-42-40.png",
+    "Screenshot from 2024-05-15 21-41-52.png",
+    "Screenshot from 2024-05-15 21-40-35.png",
+    "handgun-sketch-icon-vector-9395986.jpg",
+    "Screenshot from 2024-05-15 21-37-18.png",
+    "Screenshot from 2024-05-15 21-35-53.png",
+    "Screenshot from 2024-05-15 21-35-42.png",
+    "Screenshot from 2024-05-15 21-30-57.png",
+    "Gameplay/Player/Arsenal/Effets/Chargeur.md",
+    "Gameplay/Player/Arsenal/Armes",
+    "Welcome.md",
+    "Gameplay/Player/Arsenal/Effets/Lesté.md",
+    "Gameplay/Player/Arsenal/Effets/Lourd.md",
+    "Gameplay/Player/Arsenal/Effets/Lumière.md",
+    "Gameplay/Player/Arsenal/Effets/Meurtrier.md",
+    "Gameplay/Player/Arsenal/Effets/Parasitage.md",
+    "Gameplay/Player/Arsenal/Effets/Pénétrant.md",
+    "Gameplay/Player/Arsenal/Effets/Précision.md",
     "Gameplay/Player/Arsenal/Effets/Réaction X.md",
     "Gameplay/Player/Arsenal/Effets/Silencieux.md",
     "Gameplay/Player/Arsenal/Effets/Soumission.md",
     "Gameplay/Player/Arsenal/Effets/Tir en rafale.md",
     "Gameplay/Player/Arsenal/Effets/Tir en sécurité.md",
     "Gameplay/Player/Arsenal/Effets/Ultraviolence.md",
-    "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
-    "Gameplay/Player/Arsenal/Méta-armure.md",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
-    "barbarian.png"
+    "Gameplay/Player/Arsenal/Effets/Ignore armure.md"
   ]
 }
