@@ -37,5 +37,6 @@
   "ITS@@vault-icon-image": "bedivere",
   "ITS@@navbar-bottom": false,
   "ITS@@ITS-Sidebar-Ribbon-Float": "sidebar-ribbon-mini-float",
-  "ITS@@ITS-Sidebar-Ribbon-Float-Position": "sidebar-float-bottom"
+  "ITS@@ITS-Sidebar-Ribbon-Float-Position": "sidebar-float-bottom",
+  "ITS@@vault-font": "'Calisto MT', 'Palatino Black', 'Book Antiqua', 'Georgia', 'Suez One', serif"
 }
