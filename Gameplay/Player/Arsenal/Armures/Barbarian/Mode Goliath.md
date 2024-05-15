@@ -1,5 +1,6 @@
 ---
 tags:
+  - Joueur
 ---
 ___
 # Mode Goliath

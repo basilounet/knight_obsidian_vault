@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
+                "file": "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
+                "file": "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
+                "file": "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md"
+                "file": "Gameplay/Player/Arsenal/Effets/Ignore armure.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   "active": "901ad2f68e2d5a38",
   "lastOpenFiles": [
     "Gameplay/Player/Arsenal/Méta-armure.md",
+    "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
     "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
-    "barbarian.png",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md"
+    "barbarian.png"
   ]
 }
