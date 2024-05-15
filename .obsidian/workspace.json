@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effet.md",
-                "mode": "preview",
+                "file": "Gameplay/Player/Arsenal/Effets/Destructeur.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "armure",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effet.md",
+                "file": "Gameplay/Player/Arsenal/Effets/Destructeur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effet.md",
+                "file": "Gameplay/Player/Arsenal/Effets/Destructeur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effet.md"
+                "file": "Gameplay/Player/Arsenal/Effets/Destructeur.md"
               }
             }
           },
@@ -204,8 +204,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0f02647ec607f8d1",
+  "active": "0b0f43ff6f9856a5",
   "lastOpenFiles": [
+    "Gameplay/Player/Arsenal/Effets/Parasitage.md",
+    "Gameplay/Player/Arsenal/Effets/Ignore CdF.md",
+    "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
+    "Gameplay/Player/Arsenal/Effets/Désignation.md",
+    "Gameplay/Player/Arsenal/Effets/Anti-Anathème.md",
+    "Gameplay/Player/Arsenal/Effet.md",
     "Gameplay/Player/Arsenal/Effets/Ultraviolence.md",
     "Gameplay/Player/Arsenal/Effets/Tir en sécurité.md",
     "Gameplay/Player/Arsenal/Effets/Tir en rafale.md",
@@ -215,7 +221,6 @@
     "Gameplay/Player/Arsenal/Effets/Précision.md",
     "Gameplay/Player/Arsenal/Effets/Perce armure.md",
     "Gameplay/Player/Arsenal/Effets/Pénétrant.md",
-    "Gameplay/Player/Arsenal/Effets/Parasitage.md",
     "Gameplay/Player/Arsenal/Effets/Orfèvrerie.md",
     "Gameplay/Player/Arsenal/Effets/Meurtrier.md",
     "Gameplay/Player/Arsenal/Effets/Lumière.md",
@@ -223,15 +228,10 @@
     "Gameplay/Player/Arsenal/Effets/Lesté.md",
     "Gameplay/Player/Arsenal/Effets/Jumelé (ambidextrie).md",
     "Gameplay/Player/Arsenal/Effets/Jumelé (akimbo).md",
-    "Gameplay/Player/Arsenal/Effets/Ignore CdF.md",
-    "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
     "Gameplay/Player/Arsenal/Effets/Fureur.md",
     "Gameplay/Player/Arsenal/Effets/En chaîne.md",
     "Gameplay/Player/Arsenal/Effets/Dispersion X.md",
     "Gameplay/Player/Arsenal/Effets/Deux mains.md",
-    "Gameplay/Player/Arsenal/Effets/Destructeur.md",
-    "Gameplay/Player/Arsenal/Effets/Désignation.md",
-    "Gameplay/Player/Arsenal/Effets/Démoralisant.md",
     "PulseRifle-1Ggg4.ttf",
     "Logo_barbarian.png",
     "Logo_barbarian.png.crdownload",
