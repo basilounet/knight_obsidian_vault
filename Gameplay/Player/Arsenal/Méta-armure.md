@@ -3,7 +3,7 @@ ___
 
 | Nom            | Capacites                                                            | PA  | PE  | CdF | Overdrives                                                  | Sources         |
 | -------------- | -------------------------------------------------------------------- | --- | --- | --- | ----------------------------------------------------------- | --------------- |
-| [[Barbarian]]  | - Mode Goliath                                                       | 60  | 60  | 12  | - Force<br/>- Endurance<br/>- Hargne<br/>-Combat            | Livre de Base   |
+| [[Barbarian]]  | - [[Mode Goliath]]                                                   | 60  | 60  | 12  | - Force<br/>- Endurance<br/>- Hargne<br/>-Combat            | Livre de Base   |
 | Bard           | - Mode Changeling                                                    | 40  | 80  | 12  | - Déplacement<br/>- Aura<br/>- Parole<br/>- Dextérité       | Livre de Base   |
 | [CONFIDENTIEL] | ?                                                                    | ?   | ?   | ?   | ?                                                           | Atlas           |
 | Druid          | - Mode Companion                                                     | 50  | 80  | 12  | - Combat<br/>- Instinct<br/>- Tir<br/>- Technique           | Codex v1.5      |
