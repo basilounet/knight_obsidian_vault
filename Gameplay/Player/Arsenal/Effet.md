@@ -42,4 +42,3 @@ ___
 - [[Tir en rafale]]
 - [[Tir en sécurité]]
 - [[Ultraviolence]]
-
