@@ -1,0 +1,19 @@
+@keyframes example {
+    from {color: #8b0000;}
+    to {color: rgb(255, 183, 0);}
+}
+
+.PG {
+    color: #8b0000; /* Rouge sombre */
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.5); /* Ombre portée */
+    text-shadow: 2px 2px 30px rgba(0, 0, 0, 0.8); /* Ombre de texte */
+    font-size: 24px; /* Taille de police */
+    font-weight: bold; /* Texte en gras */
+    text-align: center; /* Alignement centré */
+    animation-name: example;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
