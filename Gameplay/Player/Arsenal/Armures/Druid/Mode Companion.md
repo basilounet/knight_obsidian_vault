@@ -31,4 +31,3 @@ Lorsque le compagnon est détruit ou lorsqu’il disparaît, le chevalier récup
 |                                        Energie                                         |                                 Activation                                 |               Durée               |
 | :------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------: |
 | 16 / 8 pour prolonger un compagnon lors de la scène ou de la phase de conflit suivante | 1 tour en phase de conflit ou 6 secondes en dehors d'une phase de conflit. | Une scène ou une phase de conflit |
-# Variantes

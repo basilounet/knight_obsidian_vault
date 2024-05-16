@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "fonts",
+    "custom"
+  ],
+  "textFontFamily": "Inter,HoloLens MDL2 Assets"
+}

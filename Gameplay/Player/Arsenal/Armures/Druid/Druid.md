@@ -1,19 +1,12 @@
 
 ___
-# Bard
+# Druid
 
-```statblock
-layout: Armor_stats
-Stats: [50,80,12,3]
-OD1_type: [[Combat]]
-OD2_type: [[Instinct]]
-OD3_type: [[Tir]]
-OD4_type: [[Technique]]
-Slots: [5, 5, 8, 5, 5, 5]
-```
-
-
+| PA  | PE  | CdF | Gen. |
+| --- | --- | --- | ---- |
+| 50  | 80  | 12  | 3    |
 # Historique
+
 Lorsqu'il était encore en poste à Johannesburg, James Niakaté travaillait seul sur de nombreux projets secrets. Au fil des années, le scientifique a été harassé par ses trop longues journées et surtout par son impossibilité à réussir l'ensemble de ses projets. Incapable de cesser ses travaux, le génie a alors imaginé un moyen de se dupliquer ou plutôt de se créer plusieurs corps, contrôlables par de simples pensées. Grâce à des interfaces robotiques humanoïdes, James Niakaté imaginait pouvoir travailler plus rapidement dans ses nombreux laboratoires et sur ses tout aussi nombreux projets. Si la conception des interfaces robotiques a été facile, ça n'a pas été le cas du système de contrôle que le génie n'a pas réussi à mettre au point efficacement. Les robots tombaient, étaient incapables d'effectuer des tâches précises et ne pouvaient être contrôlés longtemps. Niakaté a donc mis cette idée au placard et l'a abandonnée.
 
 C'est Gauvain, tombant par hasard sur des notes de Merlin, qui a ressorti le projet pour le développer. En certains endroits du globe, lors de certaines missions, les chevaliers du Knight en sous nombre ont particulièrement besoin de renforts ou d'unités supplémentaires, simplement pour gérer des foules, se défaire d'un combat où ils sont en infériorité ou encore effectuer des opérations complexes demandant la concentration de nombreuses personnes. C'est en ce sens que Gauvain a repensé le projet de James Niakaté. Il a imaginé une armure capable de générer des alliés robotiques, des « compagnons », qui pourraient gérer des situations simples ou appuyer le chevalier en combat. Dans l'idée de Gauvain, ce n'est pas le chevalier qui contrôlerait directement ses doubles, mais l'IA de l'armure. L'homme dans la machine pourrait ainsi se battre et son IA pourrait faire de même tout en aidant directement les autres chevaliers au combat.
@@ -33,5 +26,26 @@ Le type Wolf est constitué de trois petits compagnons humanoïdes, mesurant env
 Enfin, la nuée nommée Crow est composée d'une trentaine de petites unités robotiques volantes, pouvant lancer des décharges électriques sur les ennemis en utilisant leur propre énergie. La nuée Crow est généralement utilisée pour contenir les foules d'ennemis ou les ralentir pendant que le chevalier se replie.
 
 Grâce à ces différents types de compagnons, la méta-armure Druid est un outil polyvalent. Il est à noter que, suite aux excellents résultats obtenus par les chevaliers en armure Druid et leurs compagnons sur les différents théâtres d'opérations du Knight, Gauvain étudie la possibilité d'ajouter des compagnons à chacune des méta-armures créées.
+
+# Slots
+
+| Bras Gauche | Jambe Gauche | Torse | Tete | Bras Droit | Jambe Droite |
+| :---------: | :----------: | :---: | :--: | :--------: | :----------: |
+|      5      |      5       |   8   |  5   |     5      |      5       |
+# Overdrives
+
+| [[Combat]] | [[Instinct]] | [[Tir]] | [[Technique]] |
+| :--------: | :----------: | :-----: | :-----------: |
+|     1      |      1       |    1    |       1       |
+
 # Capacités
-![[Mode Changeling]]
+![[Mode Companion]]
+# Variantes
+![[Compagnon de type Lion]]
+![[Compagnon de type Wolf]]
+![[Compagnon de type Crow]]
+# Evolutions
+
+| PG  | Description                                                                                                                                                                                                                                                                                                                                                                               |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0   | La méta-armure Druid en elle-même n’a pas d’évolutions, ce sont ses compagnons qui peuvent évoluer. Lorsque les PG du chevalier atteignent un multiple de 100 (100, 200, 300, 400, 500 etc.), il peut choisir de faire évoluer un (et un seul) type de compagnon. Chaque évolution possible pour un type de compagnon est décrite dans son profil et chaque étape présentée est à suivre. |

@@ -23,15 +23,21 @@ Les étapes suivantes sont à suivre dès que le chevalier décide de faire évo
 - Ensuite, le chevalier dispose de 60 PG pour acheter des modules au compagnon de type Lion (sauf des overdrives). Lorsqu’il atteint un total de 200 PG, le chevalier peut acheter des modules avancés au compagnon de type Lion. Lorsqu’il atteint un total de 300 PG, le chevalier peut acheter des modules rares au compagnon de type Lion. Les PG reçus lors de cette étape peuvent être conservés s’ils ne sont pas dépensés. Bien entendu, ils ne peuvent être dépensés que pour acheter de l’équipement au compagnon de type Lion.
 - Après cette phase d’évolution, le PJ ne doit pas oublier de modifier, le cas échéant, les valeurs dérivées. Les PA, la _défense_, la _réaction_ comme le CdF ne peuvent évoluer que grâce à des modules.
 
-| Aspect  | Chair                                           | Bête       | Machine    | Dame | Masque     | Champ de Force |
-| ------- | ----------------------------------------------- | ---------- | ---------- | ---- | ---------- | -------------- |
-| Valeur  | 7                                               | 6          | 7          | 4    | 4          | 10             |
-| Except. | Mineur (1)                                      | Mineur (1) | Mineur (1) | -    | -          |                |
+## Statistiques
 
-| PS | Défense | Réaction | PA | Initiative | PE |
-|----|---------|----------|----|------------|----|
-| 0  | 4       | 4        | 60 | 2          | 0  |
+| Aspect  | Chair      | Bête       | Machine    | Dame | Masque | Champ de Force |
+| ------- | ---------- | ---------- | ---------- | ---- | ------ | -------------- |
+| Valeur  | 7          | 6          | 7          | 4    | 4      | 10             |
+| Except. | Mineur (1) | Mineur (1) | Mineur (1) | -    | -      |                |
+
+| PS  | Défense | Réaction | PA  | Initiative | PE  |
+| --- | ------- | -------- | --- | ---------- | --- |
+| 0   | 4       | 4        | 60  | 2          | 0   |
 
 | Slots | Bras.G | Jambe.G | Torse | Tete | Bras.D | Jambe.D |
 | ----- | :----: | :-----: | :---: | :--: | :----: | :-----: |
 |       |   8    |    8    |  10   |  8   |   8    |    8    |
+
+| Arme            |           |
+| --------------- | --------- |
+| Arme de contact | [[Coups]] |
