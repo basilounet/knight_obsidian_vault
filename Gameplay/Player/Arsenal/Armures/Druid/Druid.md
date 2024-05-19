@@ -13,7 +13,6 @@ C'est Gauvain, tombant par hasard sur des notes de Merlin, qui a ressorti le pro
 
 La méta-armure Druid était ainsi née et avec elle les premiers alliés robotiques du Knight. Contrôlés directement par l'IA, ils ont été nommés compagnons et Gauvain les a dessinés pour qu'ils possèdent des traits animaux gracieux et artistiques, afin qu'ils soient facilement identifiables par les chevaliers et appréciés par les civils.
 # Description Technique
-
 ![[druid.png]]
 La méta-armure Druid est une méta-armure de troisième génération, résistante et taillée pour le combat. Elle possède un réacteur énergétique Infinity et une IA qui compte parmi les plus évoluées de l'organisation, capable de prendre des décisions et de littéralement lire dans l'esprit de son porteur afin de prévenir ses volontés. De fait, l'IA et le chevalier se lient encore plus qu'à l'accoutumée, devenant des amis, des proches et parfois même développant une forme d'amour à l'instar d'Arthur et de Guenièvre.
 
@@ -47,5 +46,5 @@ Grâce à ces différents types de compagnons, la méta-armure Druid est un outi
 # Évolutions
 
 | PG  | Description                                                                                                                                                                                                                                                                                                                                                                               |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0   | La méta-armure Druid en elle-même n’a pas d’évolutions, ce sont ses compagnons qui peuvent évoluer. Lorsque les PG du chevalier atteignent un multiple de 100 (100, 200, 300, 400, 500 etc.), il peut choisir de faire évoluer un (et un seul) type de compagnon. Chaque évolution possible pour un type de compagnon est décrite dans son profil et chaque étape présentée est à suivre. |
+|:---:| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  0  | La méta-armure Druid en elle-même n’a pas d’évolutions, ce sont ses compagnons qui peuvent évoluer. Lorsque les PG du chevalier atteignent un multiple de 100 (100, 200, 300, 400, 500 etc.), il peut choisir de faire évoluer un (et un seul) type de compagnon. Chaque évolution possible pour un type de compagnon est décrite dans son profil et chaque étape présentée est à suivre. |
