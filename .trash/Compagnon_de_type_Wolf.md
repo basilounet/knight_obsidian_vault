@@ -1,7 +1,3 @@
----
-aliases:
-  - Wolf
----
 # Compagnon de type Wolf
 
 ![[druid-wolf.png]]

@@ -1,3 +1,10 @@
+---
+aliases:
+  - Armure
+  - Armures
+  - armure
+  - armures
+---
 ___
 # Liste des Méta-Armures
 

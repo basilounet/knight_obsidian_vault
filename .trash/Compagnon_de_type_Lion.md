@@ -1,7 +1,3 @@
----
-aliases:
-  - Lion
----
 # Compagnon de type Lion
 
 ![[druid-lion.png]]

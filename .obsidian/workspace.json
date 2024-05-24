@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md"
+                "file": "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md"
               }
             }
           },
@@ -208,13 +209,27 @@
   },
   "active": "d8ceb274f22b63d6",
   "lastOpenFiles": [
+    "Gameplay/Player/Arsenal/Armures/Druid/Druid.md",
+    "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md",
+    "Gameplay/Player/Arsenal/Armures/Bard/Mode Changeling.md",
+    "Gameplay/Player/Arsenal/Armures/Bard/Bard.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
+    "Gameplay/Player/Arsenal/Méta-armure.md",
+    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Wolf.md",
+    "Gameplay/Player/Arsenal/Armures/Druid/Mode_Companion.md",
+    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Lion.md",
+    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Crow.md",
+    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon_de_type_Wolf.md",
+    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon_de_type_Crow.md",
+    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon_de_type_Lion.md",
+    "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md",
     "Gameplay/Player/Arsenal/Armures/Wizard/Wizard.md",
     "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md",
     "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
     "Gameplay/Player/Arsenal/Effets/Lumière.md",
     "Gameplay/Player/Arsenal/Effets/Dégâts_continus.md",
     "Gameplay/Player/Arsenal/Effets/Anti-Anathème.md",
-    "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md",
     "Images/wizard.png",
     "Images/wizard.png.crdownload",
     "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
@@ -222,34 +237,20 @@
     "Gameplay/Player/Arsenal/Armures/Warrior/Type.md",
     "Images/warrior.png",
     "Images/warrior.png.crdownload",
-    "Gameplay/Player/Arsenal/Méta-armure.md",
     "Gameplay/Player/Arsenal/Armures/Warrior",
     "Gameplay/Player/Arsenal/Armures/Warlock/Contrecoups.md",
     "Gameplay/Player/Arsenal/Armures/Warmaster/Warmaster.md",
     "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Falcon.md",
     "Images/warmaster.png",
     "Images/warmaster.png.crdownload",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
     "Gameplay/Player/Arsenal/Armures/Warmaster",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Forward.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Rewind.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Record.md",
     "Images/warlock.png",
     "Images/warlock.png.crdownload",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
     "Gameplay/Player/Arsenal/Armures/Warlock",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Mode Morph.md",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Mode Totem 1.md",
     "Images/sorcerer.png",
-    "Gameplay/Player/Arsenal/Armures/Shaman/Shaman.md",
     "Gameplay/Player/Arsenal/Armures/Sorcerer",
-    "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
-    "Gameplay/Player/Arsenal/Armures/Shaman/Mode Totem.md",
-    "Gameplay/Player/Arsenal/Armures/Shaman/Imprégnation.md",
-    "Gameplay/Player/Arsenal/Armures/Shaman/Mode Ascension.md",
     "Images/shaman.png",
     "Images/shaman.png.crdownload",
-    "Gameplay/Player/Arsenal/Armures/Rogue/Mode Ghost.md",
     "Images/rogue.png",
     "Images/ranger.png",
     "Images/psion.png",

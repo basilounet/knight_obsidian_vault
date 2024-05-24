@@ -1,7 +1,3 @@
----
-aliases:
-  - Crow
----
 # Compagnon de type Crow
 
 ![[druid-crow.png]]

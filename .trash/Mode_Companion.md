@@ -2,15 +2,10 @@
 tags:
   - "#Joueur"
 aliases:
-  - Companion
-  - Compagnon
-  - Compagnons
-  - compagnon
-  - compagnons
 ---
 # Mode Companion
 
-La [[méta-armure]] [[Druid]] est capable de générer trois types de [[Mode Companion|compagnons]] différents. Un seul type peut être généré à la fois et uniquement de la manière dont il est présenté plus loin. Deux ou trois types de compagnons ne peuvent être créés en même temps lors d’une même scène ou d’une même phase de conflit, un seul type pouvant exister à la fois. Lorsque le chevalier génère un compagnon, il déploie des nanomachines depuis la paume de son gantelet, nanomachines qui se matérialisent en un ou plusieurs alliés robotiques.
+La méta-armure Druid est capable de générer trois types de compagnons différents. Un seul type peut être généré à la fois et uniquement de la manière dont il est présenté plus loin. Deux ou trois types de compagnons ne peuvent être créés en même temps lors d’une même scène ou d’une même phase de conflit, un seul type pouvant exister à la fois. Lorsque le chevalier génère un compagnon, il déploie des nanomachines depuis la paume de son gantelet, nanomachines qui se matérialisent en un ou plusieurs alliés robotiques.
 
 Chaque type de compagnon dure le temps d’une scène ou d’une phase de conflit. Pour prolonger la « vie » d’un type de compagnon lors de la scène ou de la phase de conflit suivante, le chevalier doit dépenser la moitié des PE qu’il dépenserait normalement. L’activation coûte 6 secondes, ou un tour complet. Désactiver un compagnon ne coûte ni PE, ni action.
 
