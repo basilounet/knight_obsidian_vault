@@ -9,7 +9,7 @@ D’un mouvement lent du bras tendu vers l’avant, le gantelet du chevalier ém
 ### Effets
 
 - [Parasitage 1](Parasitage)
-- [[Perce armure]] 40
+- [Perce armure 40](Perce_armure)
 
 |  Dégats  | Violence |   Portée    |
 | :------: | :------: | :---------: |

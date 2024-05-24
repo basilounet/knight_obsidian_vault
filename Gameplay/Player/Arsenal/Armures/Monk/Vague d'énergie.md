@@ -9,7 +9,7 @@ D’un mouvement ample et brusque du bras, le chevalier envoie une puissante vag
 ### Effets
 
 - [Parasitage 2](Parasitage)
-- [[Dispersion]] 3
+- [Dispersion 3](Dispersion)
 - [[Destructeur]]
 - [Choc 2](Choc)
 
