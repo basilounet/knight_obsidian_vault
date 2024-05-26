@@ -4,23 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ec812a339e410f21",
+        "id": "4d1a70353a789db8",
         "type": "tabs",
         "children": [
           {
-            "id": "d8ceb274f22b63d6",
+            "id": "f3eedde175ddee83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Wolf.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5e8c526b1765672",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +171,17 @@
             "state": {
               "type": "CALENDARIUM"
             }
+          },
+          {
+            "id": "17799009a0ebbf6f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       },
       {
         "id": "534dde6487912212",
@@ -207,54 +220,91 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d8ceb274f22b63d6",
+  "floating": {
+    "id": "356a5c9537ccc2cf",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c6975d394906e6f9",
+        "type": "window",
+        "children": [
+          {
+            "id": "2610a560b47cc150",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b33d870cd59396c5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Gameplay/Player/Arsenal/Méta-armure.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2496,
+        "y": -216,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a5e8c526b1765672",
   "lastOpenFiles": [
-    "Gameplay/Player/Arsenal/Armures/Druid/Druid.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md",
-    "Gameplay/Player/Arsenal/Armures/Bard/Mode Changeling.md",
-    "Gameplay/Player/Arsenal/Armures/Bard/Bard.md",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
-    "Gameplay/Player/Arsenal/Méta-armure.md",
     "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Wolf.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Mode_Companion.md",
     "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Lion.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Crow.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon_de_type_Wolf.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon_de_type_Crow.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon_de_type_Lion.md",
-    "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md",
+    "Gameplay/Player/Arsenal/Effets/Barrage.md",
+    "Gameplay/Player/Arsenal/Armures/Druid/Druid.md",
+    "Gameplay/Player/Arsenal/Armures/Druid/Compagnons.md",
+    "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
+    "Gameplay/Player/Arsenal/Armures/Psion/Psion.md",
     "Gameplay/Player/Arsenal/Armures/Wizard/Wizard.md",
     "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md",
     "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
-    "Gameplay/Player/Arsenal/Effets/Lumière.md",
-    "Gameplay/Player/Arsenal/Effets/Dégâts_continus.md",
-    "Gameplay/Player/Arsenal/Effets/Anti-Anathème.md",
-    "Images/wizard.png",
-    "Images/wizard.png.crdownload",
-    "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
     "Gameplay/Player/Arsenal/Armures/Wizard",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
     "Gameplay/Player/Arsenal/Armures/Warrior/Type.md",
-    "Images/warrior.png",
-    "Images/warrior.png.crdownload",
     "Gameplay/Player/Arsenal/Armures/Warrior",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Contrecoups.md",
     "Gameplay/Player/Arsenal/Armures/Warmaster/Warmaster.md",
+    "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md",
     "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Falcon.md",
-    "Images/warmaster.png",
-    "Images/warmaster.png.crdownload",
     "Gameplay/Player/Arsenal/Armures/Warmaster",
-    "Images/warlock.png",
-    "Images/warlock.png.crdownload",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Rewind.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Record.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Forward.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Contrecoups.md",
     "Gameplay/Player/Arsenal/Armures/Warlock",
+    "Gameplay/Player/Arsenal/Armures/Ranger/Vision.md",
+    "Gameplay/Player/Arsenal/Armures/Ranger/Ranger.md",
+    "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
+    "Gameplay/Player/Arsenal/Armures/Ranger",
+    "Images/wizard.png",
+    "Images/warrior.png",
+    "Images/warmaster.png",
+    "Images/warlock.png",
     "Images/sorcerer.png",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer",
     "Images/shaman.png",
-    "Images/shaman.png.crdownload",
-    "Images/rogue.png",
-    "Images/ranger.png",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Mode Morph.md",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer",
+    "Gameplay/Player/Arsenal/Armures/Shaman",
+    "Gameplay/Player/Arsenal/Armures/Rogue",
     "Images/psion.png",
+    "Images/psion.png.opdownload",
+    "Gameplay/Player/Arsenal/Armures/Psion",
     "Images/priest.png",
+    "Images/paladin.png",
+    "Images/monk.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
