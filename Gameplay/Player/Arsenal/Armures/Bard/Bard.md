@@ -1,3 +1,7 @@
+---
+tags:
+  - Joueur
+---
 
 ___
 # Bard
@@ -13,7 +17,7 @@ Dernière [[Méta-armure|armure]] de deuxième génération à avoir été cré�
 ![[bard.png]]
 Sur l'[[Méta-armure|armure]] [[Bard]], des dizaines de canaux passent entre les muscles dessinés et servent à déployer des [[nanomachines]] qui modifient l'aspect de la [[méta-armure]], jusqu'à sa couleur et la composition des matériaux. Comment ? Grâce à des plans en 3D, les [[nanomachines]] vont façonner la [[méta-armure]] pour changer son apparence. Ainsi, un [[chevalier]] en [[Méta-armure|armure]] [[Bard]] peut se faire passer pour un simple [[rebut]] aux vêtements sales, une belle femme en robe rouge, une créature de l'[[Anathème]] ou encore pour un soldat du [[Nodachi]]. De loin, les milliards de [[nanomachines]] grouillant sur la [[méta-armure]] font totalement illusion. De près, seul un regard averti peut se rendre compte de l'imposture, et encore. Cela dit, une impression de malaise se dégage toujours en face d'un [[chevalier]] en armure [[Bard]] utilisant cette capacité, un peu comme si l'esprit se doutait que quelque chose clochait.
 
-Seul petit écueil, la [[méta-armure]] ne peut être réduite en taille avec le [[mode Changeling]]. De fait, les personnes de grande taille se retrouvent souvent limitées en partie dans le choix des aspects qu'elles peuvent prendre. En somme, un gaillard de 2 mètres peut prendre la forme d'une belle femme, de 2 mètres minimum. Autrement, les [[nanomachines]] peuvent s'étendre et faire passer un [[chevalier]] en armure [[Bard]] pour une créature énorme ou pour un groupe de personnes (mais qui aura la consistance de milliards de nanomachines grouillantes). D'ailleurs, certains [[Bard]] utilisent ce mode pour se faire passer pour des véhicules ou des objets inertes, ce qui peut s'avérer tactiquement très intéressant. En plus de ce module, l'armure [[Bard]] est équipée d'un modulateur de voix pouvant imiter n'importe quelle personne déjà enregistrée et d'un diffuseur de phéromones qui permet de lubrifier les relations sociales, peu importe le sexe ou l'orientation sexuelle.
+Seul petit écueil, la [[méta-armure]] ne peut être réduite en taille avec le [[mode Changeling]]. De fait, les personnes de grande taille se retrouvent souvent limitées en partie dans le choix des aspects qu'elles peuvent prendre. En somme, un gaillard de 2 mètres peut prendre la forme d'une belle femme, de 2 mètres minimum. Autrement, les [[nanomachines]] peuvent s'étendre et faire passer un [[chevalier]] en armure [[Bard]] pour une créature énorme ou pour un groupe de personnes (mais qui aura la consistance de milliards de nanomachines grouillantes). D'ailleurs, certains [[Bard]] utilisent ce mode pour se faire passer pour des [[véhicules]] ou des objets inertes, ce qui peut s'avérer tactiquement très intéressant. En plus de ce module, l'armure [[Bard]] est équipée d'un modulateur de voix pouvant imiter n'importe quelle personne déjà enregistrée et d'un diffuseur de phéromones qui permet de lubrifier les relations sociales, peu importe le sexe ou l'orientation sexuelle.
 
 # Slots
 

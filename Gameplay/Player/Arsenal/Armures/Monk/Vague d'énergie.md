@@ -4,7 +4,7 @@ tags:
 ---
 # Vague d'énergie
 
-D’un mouvement ample et brusque du bras, le chevalier envoie une puissante vague d’énergie bousculant les ennemis et paralysant les systèmes électroniques.
+D’un mouvement ample et brusque du bras, le [[chevalier]] envoie une puissante vague d’énergie bousculant les ennemis et paralysant les systèmes électroniques.
 
 ### Effets
 

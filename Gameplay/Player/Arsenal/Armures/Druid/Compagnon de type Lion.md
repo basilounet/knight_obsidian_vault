@@ -2,6 +2,8 @@
 aliases:
   - Lion
   - type Lion
+tags:
+  - Joueur
 ---
 # Compagnon de type Lion
 

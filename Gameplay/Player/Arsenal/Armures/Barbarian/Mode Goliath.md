@@ -14,7 +14,7 @@ Par mètre gagné, le PJ se voit octroyer les bonus suivants :
 - 1D6 supplémentaire à ses dégâts et à sa violence en combat au contact.
 - 1 point de [[CdF]].
 
-En outre, s’il atteint les 6 mètres ou plus, ses attaques contre les structures et les véhicules sont considérées comme possédant l’effet _[[anti-véhicule]]_.
+En outre, s’il atteint les 6 mètres ou plus, ses attaques contre les structures et les [[véhicules]] sont considérées comme possédant l’effet _[[anti-véhicule]]_.
 
 À 6 mètres ou plus, le [[chevalier]] peut soulever des camions, arracher la tourelle d’un char d’assaut, défoncer des murs en béton, etc. Au PJ d’improviser et au MJ de valider en fonction des règles de combat qui utilisent le décor (voir [[Armes improvisées et éléments du décor]]).
 

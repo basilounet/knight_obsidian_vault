@@ -4,7 +4,7 @@ tags:
 ---
 # Salve d'énergie
 
-D’un mouvement rapide du bras vers l’avant, le chevalier propulse plusieurs projectiles bleu nuit qui explosent au moindre contact en puissantes novas d’énergie alpha.
+D’un mouvement rapide du bras vers l’avant, le [[chevalier]] propulse plusieurs projectiles bleu nuit qui explosent au moindre contact en puissantes novas d’[[énergie alpha]].
 
 ### Effets
 

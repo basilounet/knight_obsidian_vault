@@ -4,7 +4,7 @@ tags:
 ---
 # Rayon d'énergie
 
-D’un mouvement lent du bras tendu vers l’avant, le gantelet du chevalier émet un rayon bleu nuit d’énergie alpha concentré et extrêmement destructeur.
+D’un mouvement lent du bras tendu vers l’avant, le gantelet du [[chevalier]] émet un rayon bleu nuit d’énergie alpha concentré et extrêmement destructeur.
 
 ### Effets
 
