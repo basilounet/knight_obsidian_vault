@@ -23,8 +23,12 @@
             "id": "3aac823b9e5862ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -95,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Priest/Mode Mechanic.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Priest/Mode Mechanic.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Priest/Mode Mechanic.md"
+                "file": "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md"
               }
             }
           },
@@ -226,6 +230,12 @@
   },
   "active": "3aac823b9e5862ea",
   "lastOpenFiles": [
+    "Gameplay/Player/Arsenal/Armures/Ranger/Vision.md",
+    "Gameplay/Player/Arsenal/Armures/Ranger/Ranger.md",
+    "Gameplay/Player/Arsenal/Armures/Psion/Mode Windtalker.md",
+    "Gameplay/Player/Arsenal/Armures/Psion/Mode Puppet Master.md",
+    "Gameplay/Player/Arsenal/Armures/Psion/Mode Discord.md",
+    "Gameplay/Player/Arsenal/Armures/Psion/Psion.md",
     "Gameplay/Player/Arsenal/Armures/Priest/Mode Mechanic.md",
     "Gameplay/Player/Arsenal/Armures/Priest/Mode nanoC.md",
     "Gameplay/Player/Arsenal/Armures/Priest/Priest.md",
@@ -246,12 +256,6 @@
     "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Crow.md",
     "Gameplay/Player/Arsenal/Armures/Bard/Mode Changeling.md",
     "Gameplay/Player/Arsenal/Armures/Bard/Bard.md",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
-    "Gameplay/Player/Arsenal/Effets/Parasitage.md",
-    "méta-armures.md",
-    "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md",
-    "Vol.md",
     "Gameplay/Player/Arsenal/Armures/Wizard",
     "Gameplay/Player/Arsenal/Armures/Warrior",
     "Gameplay/Player/Arsenal/Armures/Warmaster",
