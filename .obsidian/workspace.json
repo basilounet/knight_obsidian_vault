@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3aac823b9e5862ea",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,11 +224,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c505c3b377ae2efb",
+  "active": "3aac823b9e5862ea",
   "lastOpenFiles": [
+    "Gameplay/Player/Arsenal/Armures/Priest/Mode Mechanic.md",
     "Gameplay/Player/Arsenal/Armures/Priest/Mode nanoC.md",
     "Gameplay/Player/Arsenal/Armures/Priest/Priest.md",
-    "Gameplay/Player/Arsenal/Armures/Priest/Mode Mechanic.md",
     "Gameplay/Player/Arsenal/Armures/Paladin/Paladin.md",
     "Gameplay/Player/Arsenal/Armures/Paladin/Mode Watchtower.md",
     "Gameplay/Player/Arsenal/Armures/Paladin/Champ de Force Shrine.md",
