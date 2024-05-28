@@ -8,27 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c505c3b377ae2efb",
+            "id": "3aac823b9e5862ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Priest/Mode Mechanic.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Rogue/Mode Ghost.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3aac823b9e5862ea",
+            "id": "016285595f247e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md"
-              }
+              "state": {}
             }
           },
           {
@@ -228,8 +220,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3aac823b9e5862ea",
+  "active": "016285595f247e86",
   "lastOpenFiles": [
+    "Gameplay/Player/Arsenal/Armures/Rogue/Mode Ghost.md",
+    "aspect.md",
+    "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
+    "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
     "Gameplay/Player/Arsenal/Armures/Ranger/Vision.md",
     "Gameplay/Player/Arsenal/Armures/Ranger/Ranger.md",
     "Gameplay/Player/Arsenal/Armures/Psion/Mode Windtalker.md",
@@ -252,10 +248,6 @@
     "Gameplay/Player/Arsenal/Armures/Druid/Druid.md",
     "Gameplay/Player/Arsenal/Armures/Druid/Compagnons.md",
     "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Wolf.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Lion.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Crow.md",
-    "Gameplay/Player/Arsenal/Armures/Bard/Mode Changeling.md",
-    "Gameplay/Player/Arsenal/Armures/Bard/Bard.md",
     "Gameplay/Player/Arsenal/Armures/Wizard",
     "Gameplay/Player/Arsenal/Armures/Warrior",
     "Gameplay/Player/Arsenal/Armures/Warmaster",
