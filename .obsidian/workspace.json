@@ -23,8 +23,12 @@
             "id": "016285595f247e86",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -95,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Rogue/Mode Ghost.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Rogue/Mode Ghost.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Rogue/Mode Ghost.md"
+                "file": "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md"
               }
             }
           },
@@ -226,9 +230,21 @@
   },
   "active": "016285595f247e86",
   "lastOpenFiles": [
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Polymorphie de guerre.md",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Mode Morph.md",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Corps fluide.md",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Corps de métal.md",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Étirement.md",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Phase sorcerer.md",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Vol en nuée.md",
+    "Gameplay/Player/Arsenal/Armures/Shaman/Imprégnation.md",
+    "Gameplay/Player/Arsenal/Armures/Shaman/Mode Ascension.md",
+    "Gameplay/Player/Arsenal/Armures/Shaman/Mode Totem.md",
+    "Gameplay/Player/Arsenal/Armures/Shaman/Shaman.md",
+    "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
     "Gameplay/Player/Arsenal/Armures/Rogue/Mode Ghost.md",
     "aspect.md",
-    "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
     "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
     "Gameplay/Player/Arsenal/Armures/Ranger/Vision.md",
     "Gameplay/Player/Arsenal/Armures/Ranger/Ranger.md",
@@ -240,18 +256,6 @@
     "Gameplay/Player/Arsenal/Armures/Priest/Mode nanoC.md",
     "Gameplay/Player/Arsenal/Armures/Priest/Priest.md",
     "Gameplay/Player/Arsenal/Armures/Paladin/Paladin.md",
-    "Gameplay/Player/Arsenal/Armures/Paladin/Mode Watchtower.md",
-    "Gameplay/Player/Arsenal/Armures/Paladin/Champ de Force Shrine.md",
-    "Gameplay/Player/Arsenal/Armures/Monk/Vague d'énergie.md",
-    "Gameplay/Player/Arsenal/Armures/Monk/Salve d'énergie.md",
-    "Gameplay/Player/Arsenal/Armures/Monk/Rayon d'énergie.md",
-    "Gameplay/Player/Arsenal/Armures/Monk/Monk.md",
-    "Gameplay/Player/Arsenal/Armures/Monk/Mode Zen.md",
-    "Gameplay/Player/Arsenal/Armures/Monk/Mode Céa.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Druid.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Compagnons.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Wolf.md",
     "Gameplay/Player/Arsenal/Armures/Wizard",
     "Gameplay/Player/Arsenal/Armures/Warrior",
     "Gameplay/Player/Arsenal/Armures/Warmaster",
