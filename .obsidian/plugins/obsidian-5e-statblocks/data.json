@@ -252,7 +252,7 @@
     "Gameplay/MJ/Bestiaire"
   ],
   "autoParse": true,
-  "disableSRD": true,
+  "disableSRD": false,
   "tryToRenderLinks": true,
   "debug": true,
   "notifiedOfFantasy": false,

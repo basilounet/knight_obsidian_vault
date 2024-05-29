@@ -1,17 +1,5 @@
 je viens de <span class="PG"> manger </span> un enfant.
 
-
-
-
-
-
-<span class=bb></span>
-
-
-
-
-
-
 ```statblock
 layout: Arme_layout
 name: <div class=arme_nom><span class="hover_effect">SHOTGUN AUTOMATIQUE</span></div>

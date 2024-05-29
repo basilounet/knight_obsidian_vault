@@ -8,14 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "016285595f247e86",
+            "id": "4f43551ef2ccec9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
+                "file": "Gameplay/Player/Arsenal/Méta-armure.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "76a18789f970999e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Gameplay/Player/style combats/Carte_combat_aggressif.png"
               }
             }
           }
@@ -48,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Joueur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 321.5
   },
   "right": {
     "id": "c68fd197443fa0d0",
@@ -85,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gameplay/Player/Arsenal/Méta-armure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gameplay/Player/Arsenal/Méta-armure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gameplay/Player/Arsenal/Méta-armure.md"
+              }
             }
           },
           {
@@ -201,19 +215,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "76a18789f970999e",
+  "active": "4f43551ef2ccec9a",
   "lastOpenFiles": [
-    "Images/wizard.png",
-    "Images/warrior.png",
-    "Images/warmaster.png",
-    "Images/warlock.png",
-    "Images/sorcerer.png",
-    "Images/shaman.png",
-    "Images/rogue.png",
-    "Images/ranger.png",
-    "Images/psion.png",
-    "Images/priest.png",
-    "Images/paladin.png",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
+    "Gameplay/Player/Arsenal/Armures/Warmaster/Warmaster.md",
+    "Gameplay/Player/Arsenal/Effet.md",
+    "Gameplay/Player/Arsenal/Méta-armure.md",
+    "Gameplay/Player/Arsenal/Effets/Anti-Anathème.md",
+    "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Type.md",
+    "Gameplay/Player/Arsenal/Armures/Ranger/Ranger.md",
+    "Gameplay/Player/style combats/Carte_combat_Akimbo.png",
+    "Gameplay/Player/style combats/Carte_combat_aggressif.png",
+    "Gameplay/Player/style combats/Carte_combat_Ambidextre.png",
+    "Gameplay/Player/style combats/Carte_combat_Pilonnage.png",
+    "Gameplay/Player/style combats/Carte_combat_Defensif.png",
+    "Gameplay/Player/style combats/Carte_combat_Couvert.png",
+    "js_scripts/js1.js",
+    "js_scripts",
+    "Knight.md",
+    "Images/barbarian 1.png",
+    "Images/Logo_barbarian 1.png",
+    "Gameplay/Player/style combats/Carte_combat_Suppression.png",
+    "Gameplay/Player/style combats/Carte_combat_Puissant.png",
+    "Gameplay/Player/style combats",
+    "Gameplay/Player/Arsenal/Effets/Dispersion_X.md",
+    "Excalidraw/Drawing 2024-05-24 15.01.12.excalidraw.md",
+    "Excalidraw",
     "Images",
     "Gameplay/Player/Arsenal/Effets/Réaction_X.md",
     "Gameplay/Player/Arsenal/Effets/Perce_armure.md",
@@ -224,33 +253,16 @@
     "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md",
     "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
     "Gameplay/Player/Arsenal/Armures/Wizard",
-    "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
-    "Gameplay/Player/Arsenal/Armures/Warrior/Type.md",
     "Gameplay/Player/Arsenal/Armures/Warrior/Type Soldier.md",
     "Gameplay/Player/Arsenal/Armures/Warrior/Type Scout.md",
     "Gameplay/Player/Arsenal/Armures/Warrior/Type Scholar.md",
     "Gameplay/Player/Arsenal/Armures/Warrior/Type Hunter.md",
     "Gameplay/Player/Arsenal/Armures/Warrior/Type Herald.md",
     "Gameplay/Player/Arsenal/Armures/Warrior",
-    "Gameplay/Player/Arsenal/Armures/Warmaster/Warmaster.md",
     "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md",
-    "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Falcon.md",
     "Gameplay/Player/Arsenal/Armures/Warmaster",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Rewind.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Record.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Forward.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Contrecoups.md",
     "Gameplay/Player/Arsenal/Armures/Warlock",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Étirement.md",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Vol en nuée.md",
     "Gameplay/Player/Arsenal/Armures/Sorcerer",
-    "Gameplay/Player/Arsenal/Armures/Shaman",
-    "Gameplay/Player/Arsenal/Armures/Rogue",
-    "Gameplay/Player/Arsenal/Armures/Ranger",
-    "Gameplay/Player/Arsenal/Armures/Psion",
-    "Images/priest.png",
-    "Images/paladin.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
