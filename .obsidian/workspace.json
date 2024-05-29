@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ec488f8ddae53511",
+        "id": "37bf08b439553a70",
         "type": "tabs",
         "children": [
           {
             "id": "016285595f247e86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5094337463379
+    "width": 287.5
   },
   "right": {
     "id": "c68fd197443fa0d0",
@@ -74,7 +78,6 @@
       {
         "id": "8e7bd880416a273a",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "0b0f43ff6f9856a5",
@@ -158,25 +161,16 @@
             "state": {
               "type": "CALENDARIUM"
             }
-          },
-          {
-            "id": "17799009a0ebbf6f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       },
       {
-        "id": "534dde6487912212",
+        "id": "fe54c841f7a6f704",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "9a52dad4e5c9be02",
+            "id": "dcd4233f99f74a80",
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
@@ -207,7 +201,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "016285595f247e86",
+  "active": "76a18789f970999e",
   "lastOpenFiles": [
     "Images/wizard.png",
     "Images/warrior.png",
@@ -255,6 +249,8 @@
     "Gameplay/Player/Arsenal/Armures/Rogue",
     "Gameplay/Player/Arsenal/Armures/Ranger",
     "Gameplay/Player/Arsenal/Armures/Psion",
+    "Images/priest.png",
+    "Images/paladin.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

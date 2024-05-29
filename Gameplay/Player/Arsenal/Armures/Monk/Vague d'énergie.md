@@ -9,7 +9,11 @@ D’un mouvement ample et brusque du bras, le [[chevalier]] envoie une puissante
 ### Effets
 
 - [Parasitage 2](Parasitage)
+<<<<<<< HEAD
+- [Dispersion 3](Dispersion_X)
+=======
 - [Dispersion 3](Dispersion)
+>>>>>>> b4387b97b1395ce62340f1518f436efb4a12867d
 - [[Destructeur]]
 - [Choc 2](Choc)
 
