@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "37bf08b439553a70",
+        "id": "ec488f8ddae53511",
         "type": "tabs",
         "children": [
           {
             "id": "016285595f247e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 315.5094337463379
   },
   "right": {
     "id": "c68fd197443fa0d0",
@@ -78,6 +74,7 @@
       {
         "id": "8e7bd880416a273a",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "0b0f43ff6f9856a5",
@@ -161,16 +158,25 @@
             "state": {
               "type": "CALENDARIUM"
             }
+          },
+          {
+            "id": "17799009a0ebbf6f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       },
       {
-        "id": "fe54c841f7a6f704",
+        "id": "534dde6487912212",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "dcd4233f99f74a80",
+            "id": "9a52dad4e5c9be02",
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
@@ -201,19 +207,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "76a18789f970999e",
+  "active": "016285595f247e86",
   "lastOpenFiles": [
-    "Images/wizard.png",
-    "Images/warrior.png",
-    "Images/warmaster.png",
-    "Images/warlock.png",
-    "Images/sorcerer.png",
-    "Images/shaman.png",
-    "Images/rogue.png",
-    "Images/ranger.png",
-    "Images/psion.png",
-    "Images/priest.png",
-    "Images/paladin.png",
+    "js_scripts/js1.js",
+    "js_scripts",
+    "Knight.md",
+    "Images/barbarian 1.png",
+    "Images/Logo_barbarian 1.png",
+    "Gameplay/Player/style combats/Carte_combat_aggressif.png",
+    "Gameplay/Player/style combats/Carte_combat_Suppression.png",
+    "Gameplay/Player/style combats/Carte_combat_Puissant.png",
+    "Gameplay/Player/style combats/Carte_combat_Precis.png",
+    "Gameplay/Player/style combats/Carte_combat_Pilonnage.png",
+    "Gameplay/Player/style combats/Carte_combat_Defensif.png",
+    "Gameplay/Player/style combats/Carte_combat_Couvert.png",
+    "Gameplay/Player/style combats/Carte_combat_Ambidextre_4.7.png",
+    "Gameplay/Player/style combats",
+    "Gameplay/Player/Arsenal/Effets/Dispersion_X.md",
+    "Excalidraw/Drawing 2024-05-24 15.01.12.excalidraw.md",
+    "Excalidraw",
     "Images",
     "Gameplay/Player/Arsenal/Effets/Réaction_X.md",
     "Gameplay/Player/Arsenal/Effets/Perce_armure.md",
@@ -240,17 +252,9 @@
     "Gameplay/Player/Arsenal/Armures/Warlock/Mode Rewind.md",
     "Gameplay/Player/Arsenal/Armures/Warlock/Mode Record.md",
     "Gameplay/Player/Arsenal/Armures/Warlock/Mode Forward.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Contrecoups.md",
     "Gameplay/Player/Arsenal/Armures/Warlock",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Étirement.md",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Vol en nuée.md",
     "Gameplay/Player/Arsenal/Armures/Sorcerer",
     "Gameplay/Player/Arsenal/Armures/Shaman",
-    "Gameplay/Player/Arsenal/Armures/Rogue",
-    "Gameplay/Player/Arsenal/Armures/Ranger",
-    "Gameplay/Player/Arsenal/Armures/Psion",
-    "Images/priest.png",
-    "Images/paladin.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
