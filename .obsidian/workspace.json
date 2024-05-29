@@ -11,12 +11,8 @@
             "id": "016285595f247e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,52 +209,52 @@
   },
   "active": "016285595f247e86",
   "lastOpenFiles": [
-    "logo_distance.png",
-    "logo_cac.png",
-    "Welcome.md",
-    "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
-    "champ de force.md",
-    "Gameplay/Player/Arsenal/Armures/Wizard/Wizard.md",
-    "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
-    "Gameplay/Player/Arsenal/Armures/Warrior/Type Scout.md",
-    "Gameplay/Player/Arsenal/Armures/Warrior/Type.md",
-    "Gameplay/Player/Arsenal/Armures/Warrior/Type Herald.md",
-    "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Falcon.md",
-    "Dam.md",
-    "Gameplay/Player/Arsenal/Armures/Warrior/Type Scholar.md",
-    "Gameplay/Player/Arsenal/Armures/Warrior/Type Hunter.md",
-    "Gameplay/Player/Arsenal/Armures/Warrior/Type Soldier.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Contrecoups.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
-    "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md",
-    "Gameplay/Player/Arsenal/Armures/Warmaster/Warmaster.md",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Rewind.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Forward.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Record.md",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Polymorphie de guerre.md",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Mode Morph.md",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Corps fluide.md",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Corps de métal.md",
-    "Gameplay/Player/Arsenal/Armures/Wizard",
-    "Gameplay/Player/Arsenal/Armures/Warrior",
-    "Gameplay/Player/Arsenal/Armures/Warmaster",
-    "Gameplay/Player/Arsenal/Armures/Warlock",
-    "Gameplay/Player/Arsenal/Armures/Ranger",
     "Images/wizard.png",
     "Images/warrior.png",
     "Images/warmaster.png",
     "Images/warlock.png",
     "Images/sorcerer.png",
     "Images/shaman.png",
+    "Images/rogue.png",
+    "Images/ranger.png",
+    "Images/psion.png",
+    "Images/priest.png",
+    "Images/paladin.png",
+    "Images",
+    "Gameplay/Player/Arsenal/Effets/Réaction_X.md",
+    "Gameplay/Player/Arsenal/Effets/Perce_armure.md",
+    "Gameplay/Player/Arsenal/Effets/Dégâts_continus.md",
+    "Gameplay/Player/Arsenal/Effets/Défense_X.md",
+    "Gameplay/Player/Arsenal/Effets/Dispersion.md",
+    "Gameplay/Player/Arsenal/Armures/Wizard/Wizard.md",
+    "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md",
+    "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
+    "Gameplay/Player/Arsenal/Armures/Wizard",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Type.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Type Soldier.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Type Scout.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Type Scholar.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Type Hunter.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Type Herald.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior",
+    "Gameplay/Player/Arsenal/Armures/Warmaster/Warmaster.md",
+    "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md",
+    "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Falcon.md",
+    "Gameplay/Player/Arsenal/Armures/Warmaster",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Rewind.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Record.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Forward.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Contrecoups.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Étirement.md",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Vol en nuée.md",
     "Gameplay/Player/Arsenal/Armures/Sorcerer",
     "Gameplay/Player/Arsenal/Armures/Shaman",
     "Gameplay/Player/Arsenal/Armures/Rogue",
-    "Images/psion.png",
-    "Images/psion.png.opdownload",
+    "Gameplay/Player/Arsenal/Armures/Ranger",
     "Gameplay/Player/Arsenal/Armures/Psion",
-    "Images/priest.png",
-    "Images/paladin.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
