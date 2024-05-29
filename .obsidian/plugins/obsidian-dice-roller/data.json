@@ -395,6 +395,20 @@
       "resultText": "[4, 1] + 10",
       "timestamp": 1716989960181,
       "id": "JJLjiXwvdeEa"
+    },
+    {
+      "result": 5,
+      "original": "2d6",
+      "resultText": "[1, 4]",
+      "timestamp": 1717000041222,
+      "id": "n8XYVxUFFbIE"
+    },
+    {
+      "result": 15,
+      "original": "2d6 + 10",
+      "resultText": "[1, 4] + 10",
+      "timestamp": 1717000041222,
+      "id": "46pLZn5XlPmS"
     }
   ]
 }
