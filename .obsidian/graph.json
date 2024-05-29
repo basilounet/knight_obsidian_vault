@@ -6,23 +6,8 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "tag:joueur",
-      "color": {
-        "a": 1,
-        "rgb": 9182594
-      }
-    },
-    {
-      "query": "tag:MJ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    }
-  ],
-  "collapse-display": true,
+  "colorGroups": [],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.489633338241791,

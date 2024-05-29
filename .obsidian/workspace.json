@@ -50,6 +50,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76a18789f970999e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -282,10 +290,9 @@
     "Gameplay/Player/Arsenal/Armures/Monk/Mode Céa.md",
     "Images",
     "Gameplay/Player/Arsenal/Armures/Psion",
-    "Gameplay/Player/Arsenal/Armures/Priest",
-    "Gameplay/Player/Arsenal/Armures/Paladin",
-    "Gameplay/Player/Arsenal/Armures/Monk",
-    "Gameplay/Player/Arsenal/Armures/Druid",
+    "Images/priest.png",
+    "Images/paladin.png",
+    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
