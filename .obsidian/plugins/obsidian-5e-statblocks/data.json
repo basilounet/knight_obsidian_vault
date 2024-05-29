@@ -236,6 +236,20 @@
         "imageBorderColor": "#202865",
         "fontColor": "#f2f2f2"
       }
+    },
+    {
+      "name": "Layout",
+      "blocks": [
+        {
+          "type": "traits",
+          "id": "280aaa08698b",
+          "properties": [
+            "Test"
+          ],
+          "fallback": "-"
+        }
+      ],
+      "id": "c96a697aa9fb"
     }
   ],
   "default": "basic-5e-layout",
