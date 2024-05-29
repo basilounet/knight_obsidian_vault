@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Falcon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d915d69dc1664ee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md"
+                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md"
               }
             }
           },
@@ -228,15 +215,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d915d69dc1664ee9",
+  "active": "016285595f247e86",
   "lastOpenFiles": [
+    "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
+    "champ de force.md",
+    "Gameplay/Player/Arsenal/Armures/Wizard/Wizard.md",
     "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Type Scout.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Type.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Type Herald.md",
     "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Falcon.md",
+    "Dam.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Type Scholar.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Type Hunter.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Type Soldier.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Contrecoups.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
     "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md",
     "Gameplay/Player/Arsenal/Armures/Warmaster/Warmaster.md",
     "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Contrecoups.md",
     "Gameplay/Player/Arsenal/Armures/Warlock/Mode Rewind.md",
     "Gameplay/Player/Arsenal/Armures/Warlock/Mode Forward.md",
     "Gameplay/Player/Arsenal/Armures/Warlock/Mode Record.md",
@@ -246,16 +243,6 @@
     "Gameplay/Player/Arsenal/Armures/Sorcerer/Corps de métal.md",
     "Gameplay/Player/Arsenal/Armures/Sorcerer/Étirement.md",
     "Gameplay/Player/Arsenal/Armures/Sorcerer/Phase sorcerer.md",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Vol en nuée.md",
-    "Gameplay/Player/Arsenal/Armures/Shaman/Imprégnation.md",
-    "Gameplay/Player/Arsenal/Armures/Shaman/Mode Ascension.md",
-    "Gameplay/Player/Arsenal/Armures/Shaman/Mode Totem.md",
-    "Gameplay/Player/Arsenal/Armures/Shaman/Shaman.md",
-    "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
-    "Gameplay/Player/Arsenal/Armures/Rogue/Mode Ghost.md",
-    "aspect.md",
-    "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
-    "Gameplay/Player/Arsenal/Armures/Ranger/Vision.md",
     "Gameplay/Player/Arsenal/Armures/Wizard",
     "Gameplay/Player/Arsenal/Armures/Warrior",
     "Gameplay/Player/Arsenal/Armures/Warmaster",
