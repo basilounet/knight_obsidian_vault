@@ -4,17 +4,17 @@ tags:
 ---
 # Mode Warlord
 
-Le porteur de l’armure peut améliorer à distance les méta-armures des chevaliers pendant un certain temps. Ces améliorations, appelées « impulsions », offrent des bonus substantiels aux membres de la coterie alliés. Une armure Warmaster possède au départ 3 impulsions différentes, à choisir parmi celles proposées, représentées par des grésillements de couleur lorsqu’elles sont utilisées.
+Le porteur de l’[[Warmaster|armure]] peut améliorer à distance les [[Méta-armure|méta-armures]] des [[chevalier|chevaliers]] pendant un certain temps. Ces améliorations, appelées « impulsions », offrent des bonus substantiels aux membres de la [[coterie]] alliés. Une [[Méta-armure|armure]] [[Warmaster]] possède au départ 3 impulsions différentes, à choisir parmi celles proposées, représentées par des grésillements de couleur lorsqu’elles sont utilisées.
 
-Utiliser une impulsion coûte une action de déplacement. Les impulsions possèdent toutes une portée lointaine et peuvent être lancées sur les chevaliers alliés, même si le personnage ne possède pas de ligne vue sur eux ou s’ils sont invisibles.
+Utiliser une impulsion coûte une [[action de déplacement]]. Les impulsions possèdent toutes une portée lointaine et peuvent être lancées sur les [[chevalier|chevaliers]] alliés, même si le personnage ne possède pas de ligne vue sur eux ou s’ils sont invisibles.
 
-Quand c’est indiqué, le porteur de la méta-armure peut décider de se cibler lui-même. Le chevalier peut aussi décider de recevoir l’effet bonus offert à un ou plusieurs alliés pour un coût en énergie supplémentaire égal à la moitié du coût de base en énergie de l’impulsion (arrondi à l’entier supérieur). Viser plusieurs alliés et se viser soi-même avec une impulsion ne coûte aucune action supplémentaire autre que celle de base.
+Quand c’est indiqué, le porteur de la [[méta-armure]] peut décider de se cibler lui-même. Le [[chevalier]] peut aussi décider de recevoir l’effet bonus offert à un ou plusieurs alliés pour un coût en énergie supplémentaire égal à la moitié du coût de base en énergie de l’impulsion (arrondi à l’entier supérieur). Viser plusieurs alliés et se viser soi-même avec une impulsion ne coûte aucune action supplémentaire autre que celle de base.
 
-Quand c’est indiqué, certaines impulsions peuvent être prolongées pour un coût égal à la moitié du coût total d’activation de l’impulsion (en comptabilisant le coût d’éventuelles cibles supplémentaires), avec un minimum de 1 PE dépensé. Le chevalier décide à chaque tour de prolonger ou non une impulsion. Il dépense l’énergie à chaque tour où il décide de prolonger une impulsion. Prolonger une impulsion ne coûte aucune action. Il est tout à fait possible de prolonger plusieurs impulsions en même temps, mais on ne peut pas cumuler plusieurs fois la même impulsion sur une cible.
+Quand c’est indiqué, certaines impulsions peuvent être prolongées pour un coût égal à la moitié du coût total d’activation de l’impulsion (en comptabilisant le coût d’éventuelles cibles supplémentaires), avec un minimum de 1 [[PE]] dépensé. Le chevalier décide à chaque tour de prolonger ou non une impulsion. Il dépense l’énergie à chaque tour où il décide de prolonger une impulsion. Prolonger une impulsion ne coûte aucune action. Il est tout à fait possible de prolonger plusieurs impulsions en même temps, mais on ne peut pas cumuler plusieurs fois la même impulsion sur une cible.
 
-Exemple : _Le personnage de Nicolas utilise une impulsion d’esquive sur un allié, il doit donc dépenser 3 PE. Il décide cependant d’utiliser cette impulsion aussi sur lui-même. Il dépense donc la moitié du coût de base en énergie, c’est-à-dire 2, et bénéficie de l’effet. Au total, pour son allié et lui-même, l’impulsion aura coûté 5 PE_.
+Exemple : _Le personnage de [[Nicolas]] utilise une impulsion d’esquive sur un allié, il doit donc dépenser 3 [[PE]]. Il décide cependant d’utiliser cette impulsion aussi sur lui-même. Il dépense donc la moitié du coût de base en énergie, c’est-à-dire 2, et bénéficie de l’effet. Au total, pour son allié et lui-même, l’impulsion aura coûté 5 [[PE]]_.
 
-## Variantes
+## Impulsions
 
 ### Impulsion d'action
 **Effet** : Un allié (et un seul) au choix du porteur de la méta-armure obtient une action de combat ou de déplacement supplémentaire lors de son prochain tour.

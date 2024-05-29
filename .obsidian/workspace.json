@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3aac823b9e5862ea",
+            "id": "016285595f247e86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Rogue/Mode Ghost.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Falcon.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "016285595f247e86",
+            "id": "d915d69dc1664ee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md"
+                "file": "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md"
               }
             }
           },
@@ -228,10 +228,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "016285595f247e86",
+  "active": "d915d69dc1664ee9",
   "lastOpenFiles": [
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Polymorphie de guerre.md",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
+    "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Falcon.md",
+    "Gameplay/Player/Arsenal/Armures/Warmaster/Mode Warlord.md",
+    "Gameplay/Player/Arsenal/Armures/Warmaster/Warmaster.md",
     "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Contrecoups.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Rewind.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Forward.md",
+    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Record.md",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Polymorphie de guerre.md",
     "Gameplay/Player/Arsenal/Armures/Sorcerer/Mode Morph.md",
     "Gameplay/Player/Arsenal/Armures/Sorcerer/Corps fluide.md",
     "Gameplay/Player/Arsenal/Armures/Sorcerer/Corps de métal.md",
@@ -247,15 +256,6 @@
     "aspect.md",
     "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
     "Gameplay/Player/Arsenal/Armures/Ranger/Vision.md",
-    "Gameplay/Player/Arsenal/Armures/Ranger/Ranger.md",
-    "Gameplay/Player/Arsenal/Armures/Psion/Mode Windtalker.md",
-    "Gameplay/Player/Arsenal/Armures/Psion/Mode Puppet Master.md",
-    "Gameplay/Player/Arsenal/Armures/Psion/Mode Discord.md",
-    "Gameplay/Player/Arsenal/Armures/Psion/Psion.md",
-    "Gameplay/Player/Arsenal/Armures/Priest/Mode Mechanic.md",
-    "Gameplay/Player/Arsenal/Armures/Priest/Mode nanoC.md",
-    "Gameplay/Player/Arsenal/Armures/Priest/Priest.md",
-    "Gameplay/Player/Arsenal/Armures/Paladin/Paladin.md",
     "Gameplay/Player/Arsenal/Armures/Wizard",
     "Gameplay/Player/Arsenal/Armures/Warrior",
     "Gameplay/Player/Arsenal/Armures/Warmaster",

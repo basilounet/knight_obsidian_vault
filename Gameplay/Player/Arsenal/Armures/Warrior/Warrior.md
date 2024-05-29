@@ -2,12 +2,12 @@
 ___
 # Warrior
 
-| PA  | PE  | CdF | Gen. |
-| --- | --- | :-: | :--: |
-| 100 | 40  |  8  |  1   |
+| [[PA]] | [[PE]] | [[CdF]] | Gen. |
+| ------ | ------ | :-----: | :--: |
+| 100    | 40     |    8    |  1   |
 # Historique
 
-La méta-armure Warrior est la toute première méta-armure imaginée par Merlin. L'histoire raconte que le concept de la Warrior a émergé dans l'esprit du conseiller du roi suite à la vision cauchemardesque d'un monde plongé dans une nuit éternelle, en proie aux créatures des ténèbres. Notre monde.
+La [[méta-armure]] [[Warrior]] est la toute première [[méta-armure]] imaginée par [[Merlin]]. L'histoire raconte que le concept de la [[Warrior]] a émergé dans l'esprit du conseiller du roi suite à la vision cauchemardesque d'un monde plongé dans une nuit éternelle, en proie aux créatures des ténèbres. Notre monde.
 
 En fait, beaucoup pensent que Merlin est doué d'une certaine forme de prescience, un don de médium qui lui permettrait de voir l'avenir. Des politiciens auraient préparé ce futur sombre en mobilisant les foules et le monde, des militaires en se préparant à la guerre. Lui qui est sans doute le plus grand esprit du XXI e siècle a décidé de donner à l'Humanité les armes pour lutter contre l'Anathème : les méta-armures. La première de ces armes est donc l'armure Warrior et elle a été la seule existante (en dehors d'Excalibur) pendant presque une année. À vrai dire, si Merlin n'a pensé qu'à une seule méta-armure, c'était parce qu'il pensait que l'Humanité serait forte et unie face à un ennemi commun. Il ne pensait pas que les pays les plus puissants allaient suivre les immortels, que la majorité des gens abandonneraient le combat et que les premières batailles décisives pour le sort de l'Humanité seraient perdues. Heureusement, il y avait Arthur, qui a décidé d'offrir une méta-armure Warrior à 100 personnes valeureuses qu'il a choisies pour leur honneur, leur combativité.
 
