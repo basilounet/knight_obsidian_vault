@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "4d1a70353a789db8",
+        "id": "37bf08b439553a70",
         "type": "tabs",
         "children": [
           {
-            "id": "f3eedde175ddee83",
+            "id": "4f43551ef2ccec9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Psion/Psion.md",
+                "file": "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2d56109e6a9ced3",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": []
+            }
+          },
+          {
+            "id": "0758b9004fe79d72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knight.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76a18789f970999e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5094337463379
+    "width": 287.5
   },
   "right": {
     "id": "c68fd197443fa0d0",
@@ -78,7 +111,6 @@
       {
         "id": "8e7bd880416a273a",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "0b0f43ff6f9856a5",
@@ -86,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Psion/Psion.md",
+                "file": "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Psion/Psion.md",
+                "file": "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Psion/Psion.md"
+                "file": "Gameplay/Player/Arsenal/Armes/Armes_distance.md"
               }
             }
           },
@@ -166,25 +198,16 @@
             "state": {
               "type": "CALENDARIUM"
             }
-          },
-          {
-            "id": "17799009a0ebbf6f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       },
       {
-        "id": "534dde6487912212",
+        "id": "fe54c841f7a6f704",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "9a52dad4e5c9be02",
+            "id": "dcd4233f99f74a80",
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
@@ -215,92 +238,54 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "356a5c9537ccc2cf",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c6975d394906e6f9",
-        "type": "window",
-        "children": [
-          {
-            "id": "2610a560b47cc150",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b33d870cd59396c5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Gameplay/Player/Arsenal/Méta-armure.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2496,
-        "y": -216,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f3eedde175ddee83",
+  "active": "76a18789f970999e",
   "lastOpenFiles": [
-    "Gameplay/Player/Arsenal/Armures/Psion/Mode Windtalker.md",
-    "Gameplay/Player/Arsenal/Armures/Psion/Psion.md",
-    "Gameplay/Player/Arsenal/Armures/Psion/Mode Discord.md",
-    "Gameplay/Player/Arsenal/Armures/Priest/Priest.md",
-    "Gameplay/Player/Arsenal/Armures/Priest/Mode nanoC.md",
-    "Gameplay/Player/Arsenal/Armures/Psion/Mode Puppet Master.md",
-    "Gameplay/Player/Arsenal/Armures/Bard/Bard.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Druid.md",
-    "Gameplay/Player/Arsenal/Armures/Monk/Monk.md",
-    "Gameplay/Player/Arsenal/Armures/Paladin/Paladin.md",
-    "Gameplay/Player/Arsenal/Méta-armure.md",
-    "Images/psion.png",
-    "Images/psion.png.opdownload",
-    "Gameplay/Player/Arsenal/Armures/Psion",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
-    "Gameplay/Player/Arsenal/Armures/Priest/Mode Mechanic.md",
-    "Gameplay/Player/Arsenal/Armures/Paladin/Mode Watchtower.md",
-    "Images/priest.png",
-    "Images/priest.png.opdownload",
-    "Gameplay/Player/Arsenal/Armures/Priest",
-    "Gameplay/Player/Arsenal/Armures/Paladin/Champ de Force Shrine.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md",
-    "Images/paladin.png",
-    "Images/paladin.png.opdownload",
-    "Gameplay/Player/Arsenal/Armures/Paladin",
-    "Gameplay/Player/Arsenal/Armures/Monk/Mode Céa.md",
-    "Gameplay/Player/Arsenal/Armures/Monk/Mode Zen.md",
-    "Gameplay/Player/Arsenal/Effet.md",
-    "Gameplay/Player/Arsenal/Armures/Monk/Rayon d'énergie.md",
-    "Perce.md",
-    "Gameplay/Player/Arsenal/Armures/Monk/Vague d'énergie.md",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
-    "Gameplay/Player/Arsenal/Armures/Bard/Mode Changeling.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Lion.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Compagnon de type Crow.md",
-    "Images/monk.png",
-    "Images/monk.png.opdownload",
-    "Gameplay/Player/Arsenal/Armures/Monk",
-    "Images/druid-crow.png",
-    "Images/druid-wolf.png",
-    "Images/druid-wolf.png.crdownload",
-    "Images/logo_distance.png",
-    "Gameplay/Player/Arsenal/Armures/Barbarian",
-    "Images/druid-lion.png",
-    "Images/druid.png",
-    "Images/bedivere.jpg",
+    "Knight.md",
+    "Gameplay/Player/style combats/Carte_combat_aggressif.png",
+    "Gameplay/Player/style combats/Carte_combat_Suppression.png",
+    "Gameplay/Player/style combats/Carte_combat_Puissant.png",
+    "Gameplay/Player/style combats/Carte_combat_Precis.png",
+    "Gameplay/Player/style combats/Carte_combat_Pilonnage.png",
+    "Gameplay/Player/style combats/Carte_combat_Defensif.png",
+    "Gameplay/Player/style combats/Carte_combat_Couvert.png",
+    "Gameplay/Player/style combats/Carte_combat_Ambidextre_4.7.png",
+    "Gameplay/Player/style combats/Carte_combat_Akimbo.png",
+    "Gameplay/Player/style combats",
     "Untitled.canvas",
+    "Excalidraw/Drawing 2024-05-24 15.01.12.excalidraw.md",
+    "2024-05-24.md",
+    "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
+    "Excalidraw",
+    "Gameplay/Player/Arsenal/Méta-armure.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
+    "Gameplay/Player/Arsenal/Armures/Psion/Mode Discord.md",
+    "Gameplay/Player/Arsenal/Effets/Destructeur.md",
+    "Gameplay/Player/Arsenal/Effets/Dégâts continus.md",
+    "Gameplay/Player/Arsenal/Effets/Chargeur.md",
+    "Gameplay/Player/Arsenal/Effets/Barrage.md",
+    "Gameplay/Player/Arsenal/Effets/Assistance à l’attaque.md",
+    "Gameplay/Player/Arsenal/Effets/Assassin.md",
+    "Gameplay/Player/Arsenal/Effets/Artillerie.md",
+    "Gameplay/Player/Arsenal/Effets/Anti-véhicule.md",
+    "Gameplay/Player/Arsenal/Effets/Anti-Anathème.md",
+    "Gameplay/Player/Arsenal/Armes/SHOTGUN_ESCAMOTABLE_img.png",
+    "js_scripts/js1.js",
+    "js_scripts",
+    "Gameplay/Player/Arsenal/Effet.md",
+    "Gameplay/Player/Arsenal/Armures/Druid/Druid.md",
+    "Gameplay/Player/Arsenal/Armures/Psion/Psion.md",
+    "Gameplay/Player/Arsenal/Armures/Psion/Mode Windtalker.md",
+    "Gameplay/Player/Arsenal/Armures/Psion/Mode Puppet Master.md",
+    "Gameplay/Player/Arsenal/Effets/Défense X.md",
+    "Gameplay/Player/Arsenal/Armures/Monk/Vague d'énergie.md",
+    "Gameplay/Player/Arsenal/Effets/Dispersion_X.md",
+    "Gameplay/Player/Arsenal/Armures/Monk/Mode Céa.md",
+    "Images",
+    "Gameplay/Player/Arsenal/Armures/Psion",
+    "Gameplay/Player/Arsenal/Armures/Priest",
+    "Gameplay/Player/Arsenal/Armures/Paladin",
+    "Gameplay/Player/Arsenal/Armures/Monk",
+    "Gameplay/Player/Arsenal/Armures/Druid",
     "Untitled 1.canvas"
   ]
 }

@@ -16,7 +16,7 @@ ___
 - [[Choc]]
 - [[Défense X]]
 - [[Réaction X]]
-- [[Dispersion X]]
+- [[Dispersion_X]]
 - [[Dégâts continus]]
 - [[Démoralisant]]
 - [[Désignation]]

@@ -1,6 +1,20 @@
+je viens de <span class="PG"> manger </span> un enfant.
+
+
+
+
+
+
+<span class=bb></span>
+
+
+
+
+
+
 ```statblock
 layout: Arme_layout
-name: SHOTGUN ESCAMOTABLE
+name: <div class=arme_nom><span class="hover_effect">SHOTGUN AUTOMATIQUE</span></div>
 logo_image: logo_distance.png
 type: arme standard à distance
 pg: <span class="PG">20PG</span>
@@ -14,4 +28,3 @@ dégâts: 1 (2d6 + 10)
 violence: 1 (2d6)
 portée: Longue
 ```
-
