@@ -369,6 +369,7 @@
       "id": "WjKGJ9OIMfvB"
     },
     {
+<<<<<<< HEAD
       "result": 7,
       "original": "2d6",
       "resultText": "[1, 6]",
@@ -661,10 +662,18 @@
       "resultText": "[2, 1]",
       "timestamp": 1716988301914,
       "id": "hcfNtNWRZlP2"
+=======
+      "result": 6,
+      "original": "2d6",
+      "resultText": "[4, 2]",
+      "timestamp": 1716989836875,
+      "id": "ru_3AX_cPsmQ"
+>>>>>>> 97afeed089b0e350d5bdb6051c5ed416385e3aba
     },
     {
       "result": 17,
       "original": "2d6 + 10",
+<<<<<<< HEAD
       "resultText": "[2, 5] + 10",
       "timestamp": 1716988301915,
       "id": "sAVUYnQVkuE7"
@@ -675,10 +684,23 @@
       "resultText": "[3, 4]",
       "timestamp": 1716988302420,
       "id": "Ws2rSwGTFKU9"
+=======
+      "resultText": "[5, 2] + 10",
+      "timestamp": 1716989836876,
+      "id": "sa2DStgb614k"
+    },
+    {
+      "result": 4,
+      "original": "2d6",
+      "resultText": "[1, 3]",
+      "timestamp": 1716989960181,
+      "id": "3UY43ILrzfbB"
+>>>>>>> 97afeed089b0e350d5bdb6051c5ed416385e3aba
     },
     {
       "result": 15,
       "original": "2d6 + 10",
+<<<<<<< HEAD
       "resultText": "[1, 4] + 10",
       "timestamp": 1716988302420,
       "id": "P_VZbhe6NTfR"
@@ -724,17 +746,28 @@
       "resultText": "[5, 3] + 10",
       "timestamp": 1716988321690,
       "id": "lFaJ1-8GgA78"
+=======
+      "resultText": "[4, 1] + 10",
+      "timestamp": 1716989960181,
+      "id": "JJLjiXwvdeEa"
+>>>>>>> 97afeed089b0e350d5bdb6051c5ed416385e3aba
     },
     {
       "result": 5,
       "original": "2d6",
       "resultText": "[1, 4]",
+<<<<<<< HEAD
       "timestamp": 1716988324691,
       "id": "G2QiN4EtGzMF"
+=======
+      "timestamp": 1717000041222,
+      "id": "n8XYVxUFFbIE"
+>>>>>>> 97afeed089b0e350d5bdb6051c5ed416385e3aba
     },
     {
       "result": 15,
       "original": "2d6 + 10",
+<<<<<<< HEAD
       "resultText": "[2, 3] + 10",
       "timestamp": 1716988324691,
       "id": "iUg6vFtlYDz3"
@@ -780,6 +813,11 @@
       "resultText": "[6, 3] + 10",
       "timestamp": 1716988326227,
       "id": "L1eTFQbn5gEG"
+=======
+      "resultText": "[1, 4] + 10",
+      "timestamp": 1717000041222,
+      "id": "46pLZn5XlPmS"
+>>>>>>> 97afeed089b0e350d5bdb6051c5ed416385e3aba
     }
   ]
 }

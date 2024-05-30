@@ -4,6 +4,12 @@ tags:
 ---
 je viens de <span class="PG"> manger </span> un enfant.
 
+```statblock
+layout: Layout
+Test:
+  - name: "Test"
+  - desc:test
+```
 
 ```statblock
 layout: Arme_layout
