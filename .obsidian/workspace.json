@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5f39556d44e8dc1b",
+        "id": "692bda25983fa0de",
         "type": "tabs",
         "children": [
           {
-            "id": "0d5ffef7d164d445",
+            "id": "96270b501c482342",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Joueur",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 315.5094337463379
   },
   "right": {
     "id": "c68fd197443fa0d0",
@@ -74,6 +78,7 @@
       {
         "id": "8e7bd880416a273a",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "0b0f43ff6f9856a5",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md"
+              }
             }
           },
           {
@@ -157,16 +166,25 @@
             "state": {
               "type": "CALENDARIUM"
             }
+          },
+          {
+            "id": "17799009a0ebbf6f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       },
       {
-        "id": "fe54c841f7a6f704",
+        "id": "534dde6487912212",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "dcd4233f99f74a80",
+            "id": "9a52dad4e5c9be02",
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
@@ -197,71 +215,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0d5ffef7d164d445",
+  "active": "96270b501c482342",
   "lastOpenFiles": [
-    "Gameplay/MJ/Bestiaire/Bestiaire.md",
-    "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
-    "Gameplay/Player/Arsenal/Armes/SHOTGUN_ESCAMOTABLE_img.png",
-    "Knight.md",
-    "Images/bedivere.jpg",
     "conflict-files-obsidian-git.md",
+    "Gameplay/Player/Arsenal/Overdrives/Overdrives.md",
+    "Gameplay/Player/Arsenal/Overdrives/Chair/OD_Force.md",
+    "Gameplay/Player/Arsenal/Overdrives/Chair/OD_Déplacement.md",
+    "Gameplay/Player/Arsenal/Overdrives/Chair",
+    "Gameplay/Player/Arsenal/Overdrives/Masque",
+    "Gameplay/Player/Arsenal/Overdrives/Dame",
+    "Gameplay/Player/Arsenal/Overdrives/Machine",
+    "Gameplay/Player/Arsenal/Overdrives/Bête",
+    "Chair",
+    "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
+    "Gameplay/Player/Arsenal/Overdrives",
+    "Gameplay/Player/style combats/Carte_combat_Ambidextre.png",
+    "Gameplay/Player/Arsenal/Armures/Wizard/wizard.png",
+    "Gameplay/Player/Arsenal/Armures/Warrior/warrior.png",
+    "Gameplay/Player/Arsenal/Armures/Warmaster/warmaster.png",
+    "Gameplay/Player/Arsenal/Armures/Warlock/warlock.png",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/sorcerer.png",
+    "Gameplay/Player/Arsenal/Armures/Shaman/shaman.png",
+    "Gameplay/Player/Arsenal/Armures/Rogue/rogue.png",
+    "Gameplay/Player/Arsenal/Armures/Ranger/ranger.png",
+    "Gameplay/Player/Arsenal/Armures/Psion/psion.png",
+    "Gameplay/MJ/Bestiaire/Bestiaire.md",
     "Gameplay/MJ/Bestiaire",
     "Gameplay/MJ",
-    "Gameplay/Player/Arsenal/Armures/Druid/druid.png",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Logo_barbarian.png",
-    "Images/Logo_barbarian 1.png",
-    "Gameplay/Player/Arsenal/Armures/Druid/druid-crow.png",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/barbarian.png",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/barbarian 1.png",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
-    "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
+    "js_scripts/js1.js",
     "Excalidraw/Drawing 2024-05-24 15.01.12.excalidraw.md",
     "Gameplay/Player/Arsenal/Armures/Bard/Bard.md",
     "Gameplay/Player/Arsenal/Armures/Druid/Druid.md",
-    "Gameplay/Player/Arsenal/Armures/Monk/Monk.md",
+    "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md",
+    "Gameplay/Player/Arsenal/Armures/Shaman/Shaman.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
     "Gameplay/Player/Arsenal/Armures/Paladin/Paladin.md",
-    "Gameplay/Player/Arsenal/Armures/Priest/Mode nanoC.md",
     "Gameplay/Player/Arsenal/Armures/Priest/Priest.md",
     "Gameplay/Player/Arsenal/Armures/Psion/Psion.md",
-    "Gameplay/Player/Arsenal/Armures/Ranger/Ranger.md",
-    "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
-    "Gameplay/Player/Arsenal/Armures/Shaman/Shaman.md",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
-    "Gameplay/Player/Arsenal/Armures/Warmaster/Warmaster.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
-    "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
-    "Gameplay/Player/Arsenal/Méta-armure.md",
-    "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
-    "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md",
     "Gameplay/Player/Arsenal/Armures/Wizard/Wizard.md",
-    "Gameplay/Player/style combats/Carte_combat_aggressif.png",
-    "Gameplay/Player/style combats/Carte_combat_Akimbo.png",
-    "js_scripts/js1.js",
-    "js_scripts",
-    "Gameplay/Player/style combats",
-    "Excalidraw",
-    "Images/wizard.png",
-    "Images/warrior.png",
-    "Images/warmaster.png",
-    "Images/warlock.png",
-    "Images/sorcerer.png",
-    "Images/shaman.png",
-    "Images/rogue.png",
-    "Images/ranger.png",
-    "Images/psion.png",
-    "Images/priest.png",
-    "Images/paladin.png",
-    "Images",
-    "Gameplay/Player/Arsenal/Armures/Wizard",
-    "Gameplay/Player/Arsenal/Armures/Warrior",
-    "Gameplay/Player/Arsenal/Armures/Warmaster",
+    "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
     "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Rewind.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Record.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Forward.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer",
-    "Gameplay/Player/Arsenal/Armures/Shaman",
+    "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
+    "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
+    "Knight.md",
+    "Gameplay/Player/Arsenal/Effets/Dispersion_X.md",
+    "Gameplay/Player/Arsenal/Effets/Réaction_X.md",
+    "Gameplay/Player/Arsenal/Effets/Perce_armure.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
