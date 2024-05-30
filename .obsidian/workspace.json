@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a5ae19bd182f94d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Player/Arsenal/Overdrives/Overdrives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bba3d4126217817c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Hargne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effet.md",
+                "file": "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Hargne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effet.md",
+                "file": "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Hargne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Effet.md"
+                "file": "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Hargne.md"
               }
             }
           },
@@ -215,19 +240,26 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "96270b501c482342",
+  "active": "bba3d4126217817c",
   "lastOpenFiles": [
+    "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Instinct.md",
+    "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Combat.md",
+    "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Hargne.md",
+    "Gameplay/Player/Arsenal/Overdrives/Chair/OD_Déplacement.md",
+    "Gameplay/Player/Arsenal/Overdrives/Chair/OD_Force.md",
+    "Gameplay/Player/Arsenal/Overdrives/Chair/OD_Endurance.md",
+    "Gameplay/Player/Arsenal/Overdrives/Overdrives.md",
+    "Deplacement",
+    "Gameplay/Player/Arsenal/Overdrives/Chair",
+    "Gameplay/Player/Arsenal/Effet.md",
     "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
     "conflict-files-obsidian-git.md",
-    "Gameplay/Player/Arsenal/Overdrives/Overdrives.md",
-    "Gameplay/Player/Arsenal/Overdrives/Chair/OD_Force.md",
-    "Gameplay/Player/Arsenal/Overdrives/Chair/OD_Déplacement.md",
     "Gameplay/Player/Arsenal/Overdrives/Chair",
     "Gameplay/Player/Arsenal/Overdrives/Masque",
     "Gameplay/Player/Arsenal/Overdrives/Dame",
     "Gameplay/Player/Arsenal/Overdrives/Machine",
     "Gameplay/Player/Arsenal/Overdrives/Bête",
-    "Chair",
+    "Gameplay/Player/Arsenal/Overdrives/Chair",
     "Gameplay/Player/Arsenal/Overdrives",
     "Gameplay/Player/style combats/Carte_combat_Ambidextre.png",
     "Gameplay/Player/Arsenal/Armures/Wizard/wizard.png",
@@ -241,8 +273,6 @@
     "Gameplay/Player/Arsenal/Armures/Psion/psion.png",
     "Gameplay/MJ/Bestiaire/Bestiaire.md",
     "Gameplay/MJ/Bestiaire",
-    "Gameplay/MJ",
-    "js_scripts/js1.js",
     "Excalidraw/Drawing 2024-05-24 15.01.12.excalidraw.md",
     "Gameplay/Player/Arsenal/Armures/Bard/Bard.md",
     "Gameplay/Player/Arsenal/Armures/Druid/Druid.md",
@@ -258,10 +288,6 @@
     "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
     "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
     "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
-    "Knight.md",
-    "Gameplay/Player/Arsenal/Effets/Dispersion_X.md",
-    "Gameplay/Player/Arsenal/Effets/Réaction_X.md",
-    "Gameplay/Player/Arsenal/Effets/Perce_armure.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

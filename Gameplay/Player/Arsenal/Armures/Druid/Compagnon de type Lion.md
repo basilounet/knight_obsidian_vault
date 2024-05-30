@@ -18,7 +18,7 @@ Voici quelques points importants à retenir :
 - En phase de conflit, le [[Compagnon de type Lion|type Lion]] possède une [[action de déplacement]] et une [[action de combat]]. Il agit comme n’importe quel PNJ, à son _[[initiative]]_.
 - Le [[Compagnon de type Lion|type Lion]] est doté des mêmes technologies communes que n’importe quelle [[méta-armure]].
 - Le [[compagnon de type Lion]] est extrêmement sensible aux [[IEM]] qui lui infligent le double des effets et des dégâts habituels [choc 2](choc) devient ainsi [choc 4](choc), 2D6 dégâts se transforment en 4D6 dégâts, etc.).
-- Le [[compagnon de type Lion]] peut uniquement recevoir des [[modules]] standards de l’[[arsenal]] du [[Knight]] (cependant il ne peut pas recevoir d’[[overdrives]], ni de [[modules]] utilitaires ou tactiques). Il ne peut pas recevoir d’[[armes]] de l’[[arsenal]].
+- Le [[compagnon de type Lion]] peut uniquement recevoir des [[modules]] standards de l’[[arsenal]] du [[Knight]] (cependant il ne peut pas recevoir d’[[Overdrives]], ni de [[modules]] utilitaires ou tactiques). Il ne peut pas recevoir d’[[armes]] de l’[[arsenal]].
 
 À la création, le [[chevalier]] reçoit 60 [[PG]] pour équiper le [[compagnon de type Lion]]. Le [[Compagnon de type Lion|type Lion]] possède des slots, fonctionnant de la même manière que sur une [[méta-armure]]. Le [[Compagnons|compagnon]] ne peut recevoir que des [[modules]] acquis pour lui.
 
@@ -28,7 +28,7 @@ Les étapes suivantes sont à suivre dès que le [[chevalier]] décide de faire 
 
 - Il doit répartir 5 points dans les [[aspects]] du [[compagnon de type Lion]] (avec un maximum de 2 points répartis dans un même [[aspect]] lors de cette évolution). Ces points s’ajoutent à ceux déjà présents.
 - Il doit répartir 2 points dans les [[aspects exceptionnels]] du [[compagnon de type Lion]]. Lorsqu’un [[aspect exceptionnel]] dépasse 5, il devient un [[aspect exceptionnel]] majeur.
-- Ensuite, le [[chevalier]] dispose de 60 [[PG]] pour acheter des [[modules]] au [[compagnon de type Lion]] (sauf des [[overdrives]]). Lorsqu’il atteint un total de 200 [[PG]], le [[chevalier]] peut acheter des [[modules]] avancés au [[compagnon de type Lion]]. Lorsqu’il atteint un total de 300 [[PG]], le [[chevalier]] peut acheter des [[modules]] rares au [[compagnon de type Lion]]. Les [[PG]] reçus lors de cette étape peuvent être conservés s’ils ne sont pas dépensés. Bien entendu, ils ne peuvent être dépensés que pour acheter de l’équipement au [[compagnon de type Lion]].
+- Ensuite, le [[chevalier]] dispose de 60 [[PG]] pour acheter des [[modules]] au [[compagnon de type Lion]] (sauf des [[Overdrives]]). Lorsqu’il atteint un total de 200 [[PG]], le [[chevalier]] peut acheter des [[modules]] avancés au [[compagnon de type Lion]]. Lorsqu’il atteint un total de 300 [[PG]], le [[chevalier]] peut acheter des [[modules]] rares au [[compagnon de type Lion]]. Les [[PG]] reçus lors de cette étape peuvent être conservés s’ils ne sont pas dépensés. Bien entendu, ils ne peuvent être dépensés que pour acheter de l’équipement au [[compagnon de type Lion]].
 - Après cette phase d’évolution, le PJ ne doit pas oublier de modifier, le cas échéant, les valeurs dérivées. Les [[PA]], la _[[défense]]_, la _[[réaction]]_ comme le [[CdF]] ne peuvent évoluer que grâce à des [[modules]].
 
 ## Statistiques
