@@ -4,6 +4,8 @@ aliases:
   - Armures
   - armure
   - armures
+tags:
+  - Joueur
 ---
 ___
 # Liste des Méta-Armures

@@ -5,14 +5,15 @@
       {
         "layout": "Arme_layout",
         "name": "SHOTGUN ESCAMOTABLE",
-        "logo_image": "logo_distance.png",
+        "img": "<STATBLOCK-WIKI-LINK>SHOTGUN_ESCAMOTABLE_img.png<STATBLOCK-WIKI-LINK>",
+        "logo_image": "<STATBLOCK-WIKI-LINK>logo_distance.png<STATBLOCK-WIKI-LINK>",
         "type": "arme standard à distance",
-        "pg": "20PG",
+        "pg": "<span class=\"PG\">20PG</span>",
         "surnoms": "le riotgun , le clic-clac",
         "description": "Ce shotgun pliable est installé à côté des extincteurs dans les couloirs de <STATBLOCK-WIKI-LINK>Camelot<STATBLOCK-WIKI-LINK> et dans les véhicules du <STATBLOCK-WIKI-LINK>Knight<STATBLOCK-WIKI-LINK>. Décrocher, déplier les poignées, un déclic se fait entendre, écarter les poignées énergiquement, ça coulisse, nouveau déclic, et voilà, un fusil à pompe armé et prêt à tirer. Il se recharge par l’arrière, sous la crosse, dans deux magasins tubulaires. Il est utilisable sans <STATBLOCK-WIKI-LINK>méta-armure<STATBLOCK-WIKI-LINK>.",
         "citation": "« Viser, plomber, la chevrotine n’a pas besoin de présentations. » – <STATBLOCK-WIKI-LINK>Lamorak<STATBLOCK-WIKI-LINK>",
         "nom_mode": "<STATBLOCK-WIKI-LINK>Tir<STATBLOCK-WIKI-LINK>",
-        "effets": "<STATBLOCK-WIKI-LINK>Meurtrier<STATBLOCK-WIKI-LINK> / <STATBLOCK-WIKI-LINK>Choc<STATBLOCK-WIKI-LINK> 1 / <STATBLOCK-WIKI-LINK>Barrage<STATBLOCK-WIKI-LINK> 2 / <STATBLOCK-WIKI-LINK>Deux mains<STATBLOCK-WIKI-LINK>",
+        "effets": "<STATBLOCK-WIKI-LINK>Meurtrier<STATBLOCK-WIKI-LINK> / <STATBLOCK-WIKI-LINK>Choc|choc 1<STATBLOCK-WIKI-LINK> / <STATBLOCK-WIKI-LINK>Barrage|Barrage 2<STATBLOCK-WIKI-LINK> / <STATBLOCK-WIKI-LINK>Deux mains<STATBLOCK-WIKI-LINK>",
         "dégâts": "1 (2d6 + 10)",
         "violence": "1 (2d6)",
         "portée": "Longue",
@@ -37,7 +38,8 @@
               ],
               "text": null,
               "fallback": "-",
-              "hasRule": true
+              "hasRule": true,
+              "conditioned": true
             },
             {
               "type": "inline",
@@ -105,17 +107,26 @@
               ]
             },
             {
-              "type": "text",
-              "id": "f909daa82959",
+              "type": "property",
+              "id": "8849690b4948",
               "properties": [
                 "effets"
               ],
-              "text": null,
               "fallback": "-",
-              "heading": "Effets : ",
-              "headingProp": false
+              "display": "Effets : ",
+              "conditioned": true
             }
           ]
+        },
+        {
+          "type": "spells",
+          "id": "d87a29592859",
+          "properties": [
+            "test"
+          ],
+          "fallback": "-",
+          "heading": "Test",
+          "conditioned": true
         }
       ],
       "name": "Armes_stats",
@@ -135,7 +146,8 @@
                 "logo_image"
               ],
               "fallback": "-",
-              "diceCallback": "document.write(\"a\")"
+              "diceCallback": "document.write(\"a\")",
+              "dice": true
             },
             {
               "type": "group",
@@ -160,7 +172,8 @@
                   "text": null,
                   "fallback": "-"
                 }
-              ]
+              ],
+              "cls": "hover_effect"
             },
             {
               "type": "text",
@@ -177,8 +190,8 @@
           "hasRule": true
         },
         {
-          "type": "group",
-          "id": "ea8b087b4bfa",
+          "type": "inline",
+          "id": "680b098bf9f8",
           "properties": [],
           "nested": [
             {
@@ -192,6 +205,32 @@
               "conditioned": false,
               "heading": "surnoms : "
             },
+            {
+              "type": "group",
+              "id": "b919a95b4a69",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "image",
+                  "id": "3a889a197b89",
+                  "properties": [
+                    "img"
+                  ],
+                  "fallback": "-",
+                  "hasRule": false
+                }
+              ],
+              "cls": "bb",
+              "conditioned": true
+            }
+          ],
+          "cls": ""
+        },
+        {
+          "type": "group",
+          "id": "ea8b087b4bfa",
+          "properties": [],
+          "nested": [
             {
               "type": "text",
               "id": "d87809d9b91a",
@@ -213,7 +252,8 @@
               "conditioned": true
             }
           ],
-          "hasRule": false
+          "hasRule": false,
+          "cls": "card"
         },
         {
           "type": "layout",
@@ -233,8 +273,269 @@
         "barColor": "#324b82",
         "barBorderSize": "0px",
         "imageBorderSize": "1px",
-        "imageBorderColor": "#202865",
-        "fontColor": "#f2f2f2"
+        "fontColor": "#f2f2f2",
+        "imageBorderColor": "#0a1978"
+      }
+    },
+    {
+      "name": "PNJ_layout",
+      "blocks": [
+        {
+          "type": "group",
+          "id": "89992bb95b6b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "text",
+              "id": "9a697ae82b19",
+              "properties": [
+                "nom"
+              ],
+              "text": null,
+              "fallback": "-"
+            }
+          ],
+          "cls": "align-center",
+          "hasRule": true,
+          "heading": ""
+        },
+        {
+          "type": "inline",
+          "id": "e93bd908c909",
+          "properties": [],
+          "nested": [
+            {
+              "type": "text",
+              "id": "49f869e97a88",
+              "properties": [
+                "chair"
+              ],
+              "text": null,
+              "fallback": "-",
+              "heading": "Chair",
+              "dice": true
+            },
+            {
+              "type": "text",
+              "id": "a81acaf8f8ca",
+              "properties": [
+                "bête"
+              ],
+              "text": null,
+              "fallback": "-",
+              "heading": "Bête",
+              "dice": true
+            },
+            {
+              "type": "text",
+              "id": "78aab808abc8",
+              "properties": [
+                "machine"
+              ],
+              "text": null,
+              "fallback": "-",
+              "heading": "Machine",
+              "dice": true
+            },
+            {
+              "type": "text",
+              "id": "c9abbbfbdab9",
+              "properties": [
+                "dame"
+              ],
+              "text": null,
+              "fallback": "-",
+              "heading": "Dame",
+              "dice": true
+            },
+            {
+              "type": "text",
+              "id": "792a7939b938",
+              "properties": [
+                "masque"
+              ],
+              "text": null,
+              "fallback": "-",
+              "heading": "Masque",
+              "dice": true
+            }
+          ],
+          "cls": "PNJ"
+        },
+        {
+          "type": "group",
+          "id": "0939484a48cb",
+          "properties": [],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "d9485aa92a2b",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "text",
+                  "id": "2a5acb88cbdb",
+                  "properties": [
+                    "défense"
+                  ],
+                  "text": null,
+                  "fallback": "-",
+                  "heading": "Défense",
+                  "conditioned": true
+                },
+                {
+                  "type": "text",
+                  "id": "e81b8a98dbe9",
+                  "properties": [
+                    "réaction"
+                  ],
+                  "text": null,
+                  "fallback": "-",
+                  "heading": "Réaction",
+                  "conditioned": true
+                },
+                {
+                  "type": "text",
+                  "id": "6b7b38d958f8",
+                  "properties": [
+                    "initiative"
+                  ],
+                  "text": null,
+                  "fallback": "-",
+                  "heading": "Initiative",
+                  "conditioned": true,
+                  "dice": true,
+                  "diceCallback": "",
+                  "diceProperty": "initiative_dice"
+                }
+              ],
+              "cls": "",
+              "conditioned": true
+            },
+            {
+              "type": "inline",
+              "id": "a9fb092a2989",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "text",
+                  "id": "89c888ba69c9",
+                  "properties": [
+                    "ps"
+                  ],
+                  "text": null,
+                  "fallback": "-",
+                  "heading": "PS",
+                  "conditioned": true
+                },
+                {
+                  "type": "text",
+                  "id": "b9eb39b8e84b",
+                  "properties": [
+                    "débordement"
+                  ],
+                  "text": null,
+                  "fallback": "-",
+                  "heading": "Débordement",
+                  "conditioned": true
+                },
+                {
+                  "type": "text",
+                  "id": "2a19799ac958",
+                  "properties": [
+                    "cohésion"
+                  ],
+                  "text": null,
+                  "fallback": "-",
+                  "heading": "Cohésion",
+                  "conditioned": true
+                },
+                {
+                  "type": "text",
+                  "id": "18f94b3b7a29",
+                  "properties": [
+                    "bouclier"
+                  ],
+                  "text": null,
+                  "fallback": "-",
+                  "heading": "Bouclier",
+                  "conditioned": true
+                },
+                {
+                  "type": "text",
+                  "id": "699ba919ca19",
+                  "properties": [
+                    "cdf"
+                  ],
+                  "text": null,
+                  "fallback": "-",
+                  "heading": "CdF",
+                  "conditioned": true
+                }
+              ],
+              "cls": "",
+              "conditioned": true
+            },
+            {
+              "type": "inline",
+              "id": "6abaaa9a19db",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "text",
+                  "id": "58fb4a1929a8",
+                  "properties": [
+                    "pa"
+                  ],
+                  "text": null,
+                  "fallback": "-",
+                  "heading": "PA",
+                  "conditioned": true
+                },
+                {
+                  "type": "text",
+                  "id": "99699af8e94a",
+                  "properties": [
+                    "pe"
+                  ],
+                  "text": null,
+                  "fallback": "-",
+                  "heading": "PE",
+                  "conditioned": true
+                },
+                {
+                  "type": "text",
+                  "id": "4bbb08bbca1a",
+                  "properties": [
+                    "point faible"
+                  ],
+                  "text": null,
+                  "fallback": "-",
+                  "heading": "Point faible",
+                  "conditioned": true
+                }
+              ],
+              "cls": "",
+              "conditioned": true
+            }
+          ],
+          "cls": "PNJ",
+          "hasRule": true
+        }
+      ],
+      "id": "2bba4bd93abb",
+      "cssProperties": {
+        "primaryColor": "#c80a14",
+        "ruleColor": "#dc321e",
+        "barColor": "#c80a14",
+        "boxShadowColor": "#000000",
+        "backgroundColor": "#191e23",
+        "borderSize": "0px",
+        "fontColor": "#f2f2f2",
+        "contentFontSize": "borderSize",
+        "imageWidth": "borderSize",
+        "imageHeight": "borderSize",
+        "propertyFontSize": "16px"
       }
     }
   ],
@@ -249,10 +550,11 @@
     "patch": 2
   },
   "paths": [
-    "Gameplay/MJ/Bestiaire"
+    "Gameplay/MJ/Bestiaire",
+    "Gameplay/Player/Arsenal/Armes"
   ],
   "autoParse": true,
-  "disableSRD": false,
+  "disableSRD": true,
   "tryToRenderLinks": true,
   "debug": true,
   "notifiedOfFantasy": false,

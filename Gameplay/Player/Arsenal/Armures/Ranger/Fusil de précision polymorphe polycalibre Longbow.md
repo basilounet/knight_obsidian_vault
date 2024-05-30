@@ -1,3 +1,7 @@
+---
+tags:
+  - Joueur
+---
 # Fusil de précision polymorphe polycalibre Longbow
 
 La [[méta-armure]] [[Ranger]] et le [[Fusil de précision polymorphe polycalibre Longbow|fusil Longbow]] ne sont qu’une seule machinerie qui concilie la puissance et la précision d’un [[fusil anti-matériel]] avec la polyvalence nécessaire à celui qui évolue seul dans les territoires de l’[[Anathème]]. Le [[Fusil de précision polymorphe polycalibre Longbow|fusil Longbow]] est sans doute l’arme principale d’un [[chevalier]] en [[Méta-armure|armure]] [[Ranger]]. Le [[Fusil de précision polymorphe polycalibre Longbow|fusil de précision Longbow]] peut être [[racké]]. Il compte dans la limite des armes contenues dans le [[rack]] de la [[méta-armure]]. De plus, au même titre qu’une autre arme de tir, il peut recevoir des [[améliorations d’armes]], mais dans la limite de deux (et seulement deux) maximum, avec les mêmes restrictions que les armes possédant l’[[effet]] [[lourd]].

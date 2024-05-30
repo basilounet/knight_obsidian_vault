@@ -1,3 +1,8 @@
+---
+aliases: 
+tags:
+  - Joueur
+---
 
 ___
 # Priest

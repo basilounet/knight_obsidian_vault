@@ -1,3 +1,7 @@
+---
+tags:
+  - Joueur
+---
 
 ___
 # Shaman
