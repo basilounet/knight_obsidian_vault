@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
+                "file": "Gameplay/Player/Arsenal/Effet.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
+                "file": "Gameplay/Player/Arsenal/Effet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
+                "file": "Gameplay/Player/Arsenal/Effet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md"
+                "file": "Gameplay/Player/Arsenal/Effet.md"
               }
             }
           },
@@ -217,6 +217,7 @@
   },
   "active": "96270b501c482342",
   "lastOpenFiles": [
+    "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
     "conflict-files-obsidian-git.md",
     "Gameplay/Player/Arsenal/Overdrives/Overdrives.md",
     "Gameplay/Player/Arsenal/Overdrives/Chair/OD_Force.md",
@@ -227,7 +228,6 @@
     "Gameplay/Player/Arsenal/Overdrives/Machine",
     "Gameplay/Player/Arsenal/Overdrives/Bête",
     "Chair",
-    "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
     "Gameplay/Player/Arsenal/Overdrives",
     "Gameplay/Player/style combats/Carte_combat_Ambidextre.png",
     "Gameplay/Player/Arsenal/Armures/Wizard/wizard.png",
