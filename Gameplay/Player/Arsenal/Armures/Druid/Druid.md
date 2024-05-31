@@ -35,11 +35,11 @@ Grâce à ces différents types de [[compagnons]], la [[méta-armure]] [[Druid]]
 | Bras Gauche | Jambe Gauche | Torse | Tete | Bras Droit | Jambe Droite |
 | :---------: | :----------: | :---: | :--: | :--------: | :----------: |
 |      5      |      5       |   8   |  5   |     5      |      5       |
-# Overdrives
+# [[Overdrives]]
 
-| [[Combat]] | [[Instinct]] | [[Tir]] | [[Technique]] |
-| :--------: | :----------: | :-----: | :-----------: |
-|     1      |      1       |    1    |       1       |
+| [[OD_Combat\|Combat]] | [[OD_Instinct\|Instinct]] | [[OD_Tir\|Tir]] | [[OD_Technique\|Technique]] |
+| :-------------------: | :-----------------------: | :-------------: | :-------------------------: |
+|           1           |             1             |        1        |              1              |
 
 # Capacités
 ![[Mode Companion]]

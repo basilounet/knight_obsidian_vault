@@ -5,7 +5,7 @@ aliases:
   - Force
 ---
 ___
-# Overdrives de Force
+# Overdrives de [[Force]]
 **Fibres musculaires et endosquelette augmenté**
 
 | Niv. | Coût ([[PG]]) |                                          Description                                          | Rareté |

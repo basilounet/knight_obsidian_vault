@@ -22,11 +22,11 @@ D'aspect, la [[Wizard]] est une combinaison semblable à une [[méta-armure]] [[
 | Bras Gauche | Jambe Gauche | Torse | Tete | Bras Droit | Jambe Droite |
 | :---------: | :----------: | :---: | :--: | :--------: | :----------: |
 |      5      |      5       |   8   |  5   |     5      |      5       |
-# Overdrives
+# [[Overdrives]]
 
-| [[Combat]] | [[Instinct]] | [[Aura]] | [[Sang-froid]] |
-| :--------: | :----------: | :------: | :------------: |
-|     1      |      1       |    1     |       1        |
+| [[OD_Combat\|Combat]] | [[OD_Instinct\|Instinct]] | [[OD_Aura\|Aura]] | [[OD_Sang-froid\|Sang-froid]] |
+| :-------------------: | :-----------------------: | :---------------: | :---------------------------: |
+|           1           |             1             |         1         |               1               |
 
 # Capacités
 ![[Mode Borealis]]

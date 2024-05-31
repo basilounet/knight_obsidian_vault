@@ -24,11 +24,11 @@ Seul bémol, ce module tire trop sur le [[réacteur]] standard mis en place lors
 | Bras Gauche | Jambe Gauche | Torse | Tete | Bras Droit | Jambe Droite |
 | :---------: | :----------: | :---: | :--: | :--------: | :----------: |
 |      5      |      5       |   8   |  5   |     5      |      5       |
-# Overdrives
+# [[Overdrives]]
 
-| [[Force]] | [[Endurance]] | [[Hargne]] | [[Combat]] |
-| :-------: | :-----------: | :--------: | :--------: |
-|     1     |       1       |     1      |     1      |
+| [[OD_Force\|Force]] | [[OD_Endurance\|Endurance]] | [[OD_Hargne\|Hargne]] | [[OD_Combat\|Combat]] |
+| :-----------------: | :-------------------------: | :-------------------: | :-------------------: |
+|          1          |              1              |           1           |           1           |
 
 # Capacités
 ![[Mode Goliath]]

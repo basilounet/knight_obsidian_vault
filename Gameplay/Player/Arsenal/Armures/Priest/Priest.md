@@ -35,11 +35,11 @@ Dans le dos de l'[[Méta-armure|armure]], trois bras mécaniques articulés et b
 | Bras Gauche | Jambe Gauche | Torse | Tete | Bras Droit | Jambe Droite |
 | :---------: | :----------: | :---: | :--: | :--------: | :----------: |
 |      5      |      5       |   8   |  5   |     5      |      5       |
-# Overdrives
+# [[Overdrives]]
 
-| [[Force]] | [[Endurance]] | [[Savoir]] | [[Technique]] |
-| :-------: | :-----------: | :--------: | :-----------: |
-|     1     |       1       |     1      |       1       |
+| [[OD_Force\|Force]] | [[OD_Endurance\|Endurance]] | [[OD_Savoir\|Savoir]] | [[OD_Technique\|Technique]] |
+| :-----------------: | :-------------------------: | :-------------------: | :-------------------------: |
+|          1          |              1              |           1           |              1              |
 # Capacités
 ![[Mode nanoC]]
 ##

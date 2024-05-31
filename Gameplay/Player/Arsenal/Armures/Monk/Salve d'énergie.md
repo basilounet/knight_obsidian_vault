@@ -10,12 +10,8 @@ D’un mouvement rapide du bras vers l’avant, le [[chevalier]] propulse plusie
 
 - [[Ultraviolence]]
 - [[Meurtrier]]
-<<<<<<< HEAD
-- [[Dispersion_X]] 3
-=======
-- [Dispersion 3](Dispersion)
->>>>>>> b4387b97b1395ce62340f1518f436efb4a12867d
-- [Choc 2](Choc)
+- [[Dispersion|Dispersion 3]]
+- [[Choc|Choc 2]]
 
 | Dégats  | Violence |   Portée   |
 | :-----: | :------: | :--------: |

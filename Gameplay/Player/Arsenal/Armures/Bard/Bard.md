@@ -24,11 +24,11 @@ Seul petit écueil, la [[méta-armure]] ne peut être réduite en taille avec le
 | Bras Gauche | Jambe Gauche | Torse | Tete | Bras Droit | Jambe Droite |
 | :---------: | :----------: | :---: | :--: | :--------: | :----------: |
 |      5      |      5       |   8   |  5   |     5      |      5       |
-# Overdrives
+# [[Overdrives]]
 
-| [[Déplacement]] | [[Aura]] | [[Parole]] | [[Dextérité]] |
-| :-------------: | :------: | :--------: | :-----------: |
-|        1        |    1     |     1      |       1       |
+| [[OD_Déplacement\|Déplacement]] | [[OD_Aura\|Aura]] | [[OD_Parole\|Parole]] | [[OD_Dextérité\|Dextérité]] |
+| :-----------------------------: | :---------------: | :-------------------: | :-------------------------: |
+|                1                |         1         |           1           |              1              |
 
 # Capacités
 ![[Mode Changeling]]

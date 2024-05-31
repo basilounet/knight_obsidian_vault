@@ -24,11 +24,11 @@ Le [[Fusil de précision polymorphe polycalibre Longbow|Longbow]] peut assembler
 | Bras Gauche | Jambe Gauche | Torse | Tete | Bras Droit | Jambe Droite |
 | :---------: | :----------: | :---: | :--: | :--------: | :----------: |
 |      4      |      4       |   6   |  4   |     4      |      4       |
-# Overdrives
+# [[Overdrives]]
 
-| [[Déplacement]] | [[Tir]] | [[Discrétion]] | [[Dextérité]] |
-| :-------------: | :-----: | :------------: | :-----------: |
-|        1        |    1    |       1        |       1       |
+| [[OD_Déplacement\|Déplacement]] | [[OD_Tir\|Tir]] | [[OD_Discrétion\|Discrétion]] | [[OD_Dextérité\|Dextérité]] |
+| :-----------------------------: | :-------------: | :---------------------------: | :-------------------------: |
+|                1                |        1        |               1               |              1              |
 # Capacités
 
 ![[Vision]]
