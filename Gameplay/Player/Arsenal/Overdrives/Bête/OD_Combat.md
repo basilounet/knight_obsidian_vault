@@ -2,7 +2,7 @@
 tags:
   - Joueur
 aliases:
-  - Hargne
+  - Combat
 ---
 ___
 # Overdrives de Combat

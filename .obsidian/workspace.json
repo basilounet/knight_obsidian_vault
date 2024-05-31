@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Hargne.md",
+                "file": "Gameplay/Player/Arsenal/Overdrives/Masque/OD_Perception.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Hargne.md",
+                "file": "Gameplay/Player/Arsenal/Overdrives/Masque/OD_Perception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Hargne.md",
+                "file": "Gameplay/Player/Arsenal/Overdrives/Masque/OD_Perception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Hargne.md"
+                "file": "Gameplay/Player/Arsenal/Overdrives/Masque/OD_Perception.md"
               }
             }
           },
@@ -242,8 +242,17 @@
   },
   "active": "bba3d4126217817c",
   "lastOpenFiles": [
-    "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Instinct.md",
+    "Gameplay/Player/Arsenal/Overdrives/Masque/OD_Dextérité.md",
+    "Gameplay/Player/Arsenal/Overdrives/Masque/OD_Perception.md",
+    "Gameplay/Player/Arsenal/Overdrives/Masque/OD_Discrétion.md",
+    "Gameplay/Player/Arsenal/Overdrives/Dame/OD_Sang-froid.md",
+    "Gameplay/Player/Arsenal/Overdrives/Dame/OD_Parole.md",
+    "Gameplay/Player/Arsenal/Overdrives/Dame/OD_Aura.md",
+    "Gameplay/Player/Arsenal/Overdrives/Machine/OD_Technique.md",
+    "Gameplay/Player/Arsenal/Overdrives/Machine/OD_Savoir.md",
+    "Gameplay/Player/Arsenal/Overdrives/Machine/OD_Tir.md",
     "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Combat.md",
+    "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Instinct.md",
     "Gameplay/Player/Arsenal/Overdrives/Bête/OD_Hargne.md",
     "Gameplay/Player/Arsenal/Overdrives/Chair/OD_Déplacement.md",
     "Gameplay/Player/Arsenal/Overdrives/Chair/OD_Force.md",
@@ -279,15 +288,6 @@
     "Gameplay/Player/Arsenal/Armures/Druid/Mode Companion.md",
     "Gameplay/Player/Arsenal/Armures/Shaman/Shaman.md",
     "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
-    "Gameplay/Player/Arsenal/Armures/Paladin/Paladin.md",
-    "Gameplay/Player/Arsenal/Armures/Priest/Priest.md",
-    "Gameplay/Player/Arsenal/Armures/Psion/Psion.md",
-    "Gameplay/Player/Arsenal/Armures/Wizard/Wizard.md",
-    "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
-    "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

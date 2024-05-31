@@ -2,7 +2,7 @@
 tags:
   - Joueur
 aliases:
-  - Hargne
+  - Instinct
 ---
 ___
 # Overdrives d'Instinct
