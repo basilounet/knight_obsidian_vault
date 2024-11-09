@@ -1,19 +1,143 @@
-@keyframes example {
-    from {color: #8b0000;}
-    to {color: rgb(255, 183, 0);}
+@keyframes colorChange {
+    0% {
+        color: #8b0000;
+        box-shadow: 0 0 20px rgba(139, 0, 0, 0.5);
+        background-color: rgba(139, 0, 0, 0.2);
+    }
+
+    50% {
+        color: #ff6347;
+        box-shadow: 0 0 40px rgba(255, 99, 71, 0.5);
+        background-color: rgba(255, 99, 71, 0.2);
+    }
+
+    100% {
+        color: #8b0000;
+        box-shadow: 0 0 20px rgba(139, 0, 0, 0.5);
+        background-color: rgba(139, 0, 0, 0.2);
+    }
 }
 
 .PG {
-    color: #8b0000; /* Rouge sombre */
-    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.5); /* Ombre portée */
-    text-shadow: 2px 2px 30px rgba(0, 0, 0, 0.8); /* Ombre de texte */
-    font-size: 24px; /* Taille de police */
-    font-weight: bold; /* Texte en gras */
-    text-align: center; /* Alignement centré */
-    animation-name: example;
-    animation-duration: 1s;
-    animation-timing-function: linear;
-    animation-delay: 1s;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
+    color: #8b0000;
+    box-shadow: 0 0 20px rgba(139, 0, 0, 0.2);
+    background-color: rgba(139, 0, 0, 0.5);
+    border-radius: 12px;
+    margin: auto;
+    padding: 2px;
+    text-shadow: 2px 2px 30px color;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    animation: colorChange 10s infinite;
+}
+
+
+
+.hover_effect::before {
+    transform: scaleX(0);
+    transform-origin: bottom right;
+}
+
+.hover_effect:hover::before {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+.hover_effect::before {
+    content: " ";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    inset: 0 0 0 0;
+    background: rgb(12, 84, 121);
+    z-index: -1;
+    transition: transform .3s ease;
+}
+
+.hover_effect {
+    position: relative;
+    font-size: 16px;
+    padding: 3px;
+    margin: auto;
+    z-index: 1;
+}
+
+.bb,
+.bb::before,
+.bb::after {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.bb {
+    width: 85px;
+    height: 60px;
+    position: sticky;
+    margin: auto;
+    color: rgba(139, 0, 0, 0.6);
+}
+
+.bb::before,
+.bb::after {
+    content: '';
+    z-index: 1;
+    margin: -5%;
+    box-shadow: inset 0 0 0 2px;
+    animation: clipMe 8s linear infinite;
+}
+
+.bb::before {
+    animation-delay: -4s;
+}
+
+@keyframes clipMe {
+
+    0%,
+    100% {
+        clip: rect(0px, 96px, 2px, 0px);
+    }
+
+    25% {
+        clip: rect(0px, 2px, 68px, 0px);
+    }
+
+    50% {
+        clip: rect(65px, 96px, 68px, 0px);
+    }
+
+    75% {
+        clip: rect(0px, 96px, 68px, 93px);
+    }
+}
+
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.PNJ {
+    font-style: italic;
+    font-size: 12px;
+    text-align: center;
+    justify-content:center;
+    /* align-items:center; */
+    /* padding: 10px; */
+    
+}
+
+.align-center {
+    text-align: center;
+}
+
+.card {
+    box-shadow: 0 0 10rem -5rem;
 }

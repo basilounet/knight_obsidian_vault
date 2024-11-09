@@ -1,26 +1,26 @@
 {
   "showFudgeIcon": false,
-  "rollLinksForTags": true,
+  "rollLinksForTags": false,
   "copyContentButton": true,
   "customFormulas": [],
   "displayFormulaForMod": true,
-  "displayResultsInline": true,
-  "displayFormulaAfter": true,
+  "displayResultsInline": false,
+  "displayFormulaAfter": false,
   "escapeDiceMod": true,
   "signed": false,
   "displayLookupRoll": true,
   "formulas": {},
   "defaultRoll": 1,
-  "defaultFace": 0,
-  "renderer": true,
-  "renderAllDice": true,
-  "addToView": true,
-  "renderTime": 0,
-  "colorfulDice": true,
+  "defaultFace": 100,
+  "renderer": false,
+  "renderAllDice": false,
+  "addToView": false,
+  "renderTime": 2000,
+  "colorfulDice": false,
   "scaler": 1,
-  "diceColor": "#8e3939",
+  "diceColor": "#202020",
   "textColor": "#ffffff",
-  "textFont": "Arial Rounded MT",
+  "textFont": "Arial",
   "showLeafOnStartup": true,
   "showDice": true,
   "displayAsEmbed": true,
@@ -28,10 +28,10 @@
   "initialDisplay": "Roll",
   "icons": [
     {
-      "text": "4",
-      "formula": "d4",
+      "id": "dice-roller-d4",
       "shape": "Triangle",
-      "id": "dice-roller-d4"
+      "formula": "d4",
+      "text": "4"
     },
     {
       "id": "dice-roller-d6",
@@ -64,21 +64,16 @@
       "text": "20"
     },
     {
-      "text": "%",
-      "formula": "d%",
+      "id": "dice-roller-d100",
       "shape": "Circle",
-      "id": "dice-roller-d100"
-    },
-    {
-      "text": "2",
-      "formula": "d2",
-      "shape": "Square",
-      "id": "brash-young-art"
+      "formula": "d%",
+      "text": "%"
     }
   ],
   "showRenderNotice": true,
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
+<<<<<<< HEAD
   "version": "11.0.3",
   "viewResults": [
     {
@@ -131,4 +126,8 @@
       "id": "2pB3uqMY7sra"
     }
   ]
+=======
+  "viewResults": [],
+  "version": "11.0.3"
+>>>>>>> 97b3d066062e0a6fc6901e8cd5309dbf83c4d3e4
 }

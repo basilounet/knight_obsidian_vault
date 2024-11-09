@@ -10,5 +10,10 @@
   "custom-font-loader",
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-excel-to-markdown-table"
+  "obsidian-excel-to-markdown-table",
+  "customjs",
+  "obsidian-admonition",
+  "settings-search",
+  "image-window",
+  "markdown-attributes"
 ]

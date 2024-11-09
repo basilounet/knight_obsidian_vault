@@ -4,17 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "e5e5cf7a2c17ded4",
+        "id": "692bda25983fa0de",
         "type": "tabs",
         "children": [
           {
-            "id": "1d5e4b24d1d3b187",
+            "id": "6d72336af1fb097c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9a6c90d5c314fafd",
+        "type": "tabs",
+        "dimension": 34.22693266832918,
+        "children": [
+          {
+            "id": "6a5ae19bd182f94d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -89,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/MJ/Missions/Rage against the machine/Knight_codex-09.pdf",
+                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/MJ/Missions/Rage against the machine/Knight_codex-09.pdf",
+                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -135,10 +152,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/MJ/Missions/Rage against the machine/Knight_codex-09.pdf"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Knight_codex-09"
+                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md"
+              }
             }
           },
           {
@@ -190,9 +205,17 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "17799009a0ebbf6f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       },
       {
         "id": "e66d96c948b6a4ef",
@@ -232,54 +255,48 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1d5e4b24d1d3b187",
+  "active": "6d72336af1fb097c",
   "lastOpenFiles": [
-    "Gameplay/Player/PDF livres/Knight_2038.pdf",
-    "Gameplay/MJ/Missions/Rage against the machine/Notes de missions.md",
-    "Gameplay/MJ/Missions/Rage against the machine/Knight_codex-09.pdf",
-    "Gameplay/MJ/Missions/Rage against the machine/Images/mecaniste.png",
-    "Gameplay/Player/PDF livres/Knight-2023.pdf",
-    "Gameplay/Player/PDF livres/Knight_codex-08.pdf",
-    "Gameplay/MJ/Musiques/PALOMYDES.mp3",
-    "Gameplay/MJ/Missions/Rage against the machine/Images/RESTAURANT.png",
-    "Gameplay/MJ/Missions/Rage against the machine/Images/SALLE_DE_BALLET.png",
-    "Gameplay/MJ/Missions/Rage against the machine/Images/Salle_des_machines.png",
-    "Gameplay/MJ/Missions/Rage against the machine/Images/souterrain_4.png",
-    "Gameplay/MJ/Missions/Rage against the machine/Images/souterrain6.png",
-    "Gameplay/MJ/Missions/Rage against the machine/Images/souterrain7.png",
-    "Gameplay/MJ/Missions/Rage against the machine/Images/vue_aerienne_thorpe_park_6.png",
-    "Gameplay/MJ/Missions/Rage against the machine/Images/Hall_Ismael_Jhelam_-_accueil.png",
-    "Gameplay/MJ/Missions/Rage against the machine/Images/Galerie_Niakate.png",
-    "Untitled.md",
-    "Welcome.md",
-    "Gameplay/Player/PDF livres/Knight_Codex-04.pdf",
-    "Gameplay/Player/PDF livres/Knight_LdB.pdf",
-    "Gameplay/Player/PDF livres/Knight_2038_V1.5.pdf",
-    "Gameplay/Player/PDF livres/Knight_codex-03.pdf",
-    "Gameplay/MJ/Missions/PDF/Knight_Codex-06.pdf",
-    "Gameplay/MJ/Missions/Le mystère du Louvre/Acte 1 Louvre.md",
-    "Gameplay/MJ/Missions/Le mystère du Louvre/Acte 2 Louvre.md",
-    "Gameplay/MJ/Missions/Le Felon/Notes missions Le Felon.md",
-    "Gameplay/MJ/Missions/Le mystère du Louvre/Notes de mission.md",
-    "Gameplay/MJ/Missions/Le Felon/Acte 4 Le Felon.md",
-    "Gameplay/MJ/Missions/Le Felon/Acte 3 Le Felon.md",
-    "Arthur.md",
-    "Drawing 2024-07-03 13.22.48.excalidraw.md",
-    "_.md",
-    "Gameplay/MJ/Missions/Le Felon/Acte 1 Le Felon.md",
-    "Gameplay/MJ/Missions/Le Felon/Acte 2 Le Félon.md",
+    "Gameplay/Player/Arsenal/Méta-armure.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
+    "Gameplay/Player/Arsenal/Armures/Knight_Cartes-armures.pdf",
+    "barbarian.png",
+    "Gameplay/Player/Arsenal/Effets/Ignore CdF.md",
+    "Excalidraw/Drawing 2024-05-15 15.35.25.excalidraw.md",
     "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
+    "logo_distance.png",
+    "logo_cac.png",
+    "bedivere.jpg",
+    "Logo_barbarian.png",
+    "Gameplay/Player/Arsenal/Effet.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian",
+    "Gameplay/Player/Arsenal/Armures",
+    "Gameplay/Player/Arsenal/Armes",
+    "Excalidraw",
+    "Gameplay/Player/Arsenal/effet.md",
     "Gameplay/Player/Arsenal/Effets/Anti-Anathème.md",
+    "Gameplay/Player/PDF livres/Knight_LdB.pdf",
+    "Gameplay/Player/Arsenal/Effets/Ultraviolence.md",
+    "Gameplay/Player/Arsenal/Effets/Anti-véhicule.md",
+    "Gameplay/Player/Arsenal/Effets/Précision.md",
+    "Gameplay/Player/Arsenal/Effets/Tir en sécurité.md",
+    "Gameplay/Player/Arsenal/Effets/Tir en rafale.md",
+    "Gameplay/Player/Arsenal/Effets/Soumission.md",
+    "Gameplay/Player/Arsenal/Effets/Silencieux.md",
+    "Gameplay/Player/Arsenal/Effets/Perce armure.md",
+    "Gameplay/Player/Arsenal/Effets/Pénétrant.md",
+    "Gameplay/Player/Arsenal/Effets/Parasitage.md",
     "Gameplay/Player/Arsenal/Effets/Orfèvrerie.md",
     "Gameplay/Player/Arsenal/Effets/Meurtrier.md",
     "Gameplay/Player/Arsenal/Effets/Lumière.md",
-    "Gameplay/Player/Arsenal/Effets/Lourd.md",
+    "Gameplay/Player/Arsenal/Effets/Défense X.md",
+    "Gameplay/Player/Arsenal/Effets/Assistance à l’attaque.md",
     "Gameplay/Player/Arsenal/Effets/Lesté.md",
-    "Gameplay/Player/Arsenal/Effets/Jumelé (ambidextrie).md",
-    "Gameplay/Player/Arsenal/Effets/Jumelé (akimbo).md",
-    "Gameplay/Player/Arsenal/Effets/Ignore CdF.md",
-    "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
-    "Gameplay/MJ/Missions/Le Felon/Untitled.canvas",
+    "Gameplay/Player/Arsenal/Effets",
+    "Gameplay/Player/Arsenal/Knight_cartes_arsenal.pdf",
+    "Gameplay/MJ/Musiques/LAMORAK.mp3",
+    "Gameplay/MJ/Musiques/LANCELOT.mp3",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -5,7 +5,7 @@ tags:
 ___
 # Parasitage X : 
 
-Cet [[Effet]] s’applique uniquement aux [[méta-armures]], exosquelettes, robots, [[véhicules]], créatures de la [[Machine]] et tous les ennemis possédant la capacité [[sensibilité IEM]]. La cible touchée par une attaque avec [[parasitage]] X perd automatiquement ses X prochaines actions. 
+Cet [[Effet]] s’applique uniquement aux [[Méta-armure|méta-armures]], exosquelettes, robots, [[véhicules]], créatures de la [[Machine]] et tous les ennemis possédant la capacité [[sensibilité IEM]]. La cible touchée par une attaque avec [[parasitage]] X perd automatiquement ses X prochaines actions. 
 
 # Attention : 
 

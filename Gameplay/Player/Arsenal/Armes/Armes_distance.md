@@ -1,7 +1,21 @@
+---
+tags:
+  - Joueur
+---
+je viens de <span class="PG"> manger </span> un enfant.
+
+```statblock
+layout: Layout
+Test:
+  - name: "Test"
+  - desc:test
+```
+
 ```statblock
 layout: Arme_layout
 name: SHOTGUN ESCAMOTABLE
-logo_image: logo_distance.png
+img: [[SHOTGUN_ESCAMOTABLE_img.png]]
+logo_image: [[logo_distance.png]]
 type: arme standard à distance
 pg: <span class="PG">20PG</span>
 surnoms: le riotgun , le clic-clac
@@ -13,5 +27,6 @@ effets: [[Meurtrier]] / [[Choc]] 1 / [[Barrage]] 2 / [[Deux mains]]
 dégâts: 1 (2d6 + 10)
 violence: 1 (2d6)
 portée: Longue
-```
+effets: [[Meurtrier]] / [[Choc|choc 1]] / [[Barrage|Barrage 2]] / [[Deux mains]]
 
+```
