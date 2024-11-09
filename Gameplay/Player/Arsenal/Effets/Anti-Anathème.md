@@ -9,4 +9,4 @@ L’arme ignore purement et simplement la valeur de [[bouclier]] et de [[Chair e
 
 # Exemple : 
 
-Le personnage de Nicolas réussit à toucher un enfant du Masque avec son épée lumière. L’enfant du Masque a un score de bouclier de 4, score normalement soustrait de tous les dégâts qui lui sont infligés. Grâce à l’effet [[anti-Anathème]] de l’épée lumière, le personnage de [[Nicolas]] ignore ce score de [[bouclier]] et touche directement la santé de la créature
+Le personnage de [[Nicolas]] réussit à toucher un enfant du Masque avec son épée lumière. L’enfant du Masque a un score de bouclier de 4, score normalement soustrait de tous les dégâts qui lui sont infligés. Grâce à l’effet [[anti-Anathème]] de l’épée lumière, le personnage de [[Nicolas]] ignore ce score de [[bouclier]] et touche directement la santé de la créature

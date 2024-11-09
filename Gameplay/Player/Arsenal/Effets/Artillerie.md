@@ -9,4 +9,4 @@ Si la cible a préalablement été désignée, l’arme peut tirer sans les malu
 
 # Exemple : 
 
-Le personnage de Nicolas, qui possède un [[pod missile]], tire sur une cible désignée au préalable grâce à un module approprié. La cible est bien cachée derrière un épais mur de béton. Grâce à l’effet artillerie du [[pod missile]], le personnage de Nicolas atteint sa cible qui ne bénéficie pas du bonus de couvert.
+Le personnage de [[Nicolas]], qui possède un [[pod missile]], tire sur une cible désignée au préalable grâce à un module approprié. La cible est bien cachée derrière un épais mur de béton. Grâce à l’effet artillerie du [[pod missile]], le personnage de Nicolas atteint sa cible qui ne bénéficie pas du bonus de couvert.

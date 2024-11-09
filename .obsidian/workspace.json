@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "37bf08b439553a70",
+        "id": "e5e5cf7a2c17ded4",
         "type": "tabs",
         "children": [
           {
-            "id": "159bf973e3e6b051",
+            "id": "1d5e4b24d1d3b187",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +64,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5094337463379
+    "width": 313.5
   },
   "right": {
     "id": "c68fd197443fa0d0",
@@ -78,7 +82,6 @@
       {
         "id": "8e7bd880416a273a",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "0b0f43ff6f9856a5",
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
+                "file": "Gameplay/MJ/Missions/Rage against the machine/Knight_codex-09.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Knight_codex-09"
             }
           },
           {
@@ -103,10 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
+                "file": "Gameplay/MJ/Missions/Rage against the machine/Knight_codex-09.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Knight_codex-09"
             }
           },
           {
@@ -117,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Player/Arsenal/Armes/Armes_distance.md"
-              }
+                "file": "Gameplay/MJ/Missions/Rage against the machine/Knight_codex-09.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Knight_codex-09"
             }
           },
           {
@@ -135,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -143,50 +156,63 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
             "id": "3fc1e09fb6bae066",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM"
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
             "id": "7e5ead34dd0e1899",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM"
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
             "id": "6ae3c7200e5c6dc6",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM"
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
-        "id": "534dde6487912212",
+        "id": "e66d96c948b6a4ef",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "9a52dad4e5c9be02",
+            "id": "e6f641077cba0615",
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
-              "state": {}
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 475.5,
+    "width": 373.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -206,48 +232,54 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "159bf973e3e6b051",
+  "active": "1d5e4b24d1d3b187",
   "lastOpenFiles": [
-    "Gameplay/Player/Arsenal/Méta-armure.md",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
-    "Gameplay/Player/Arsenal/Armures/Knight_Cartes-armures.pdf",
-    "barbarian.png",
-    "Gameplay/Player/Arsenal/Effets/Ignore CdF.md",
-    "Excalidraw/Drawing 2024-05-15 15.35.25.excalidraw.md",
-    "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
-    "logo_distance.png",
-    "logo_cac.png",
-    "bedivere.jpg",
-    "Logo_barbarian.png",
-    "Gameplay/Player/Arsenal/Effet.md",
-    "Gameplay/Player/Arsenal/Armures/Barbarian",
-    "Gameplay/Player/Arsenal/Armures",
-    "Gameplay/Player/Arsenal/Armes",
-    "Excalidraw",
-    "Gameplay/Player/Arsenal/effet.md",
-    "Gameplay/Player/Arsenal/Effets/Anti-Anathème.md",
+    "Gameplay/Player/PDF livres/Knight_2038.pdf",
+    "Gameplay/MJ/Missions/Rage against the machine/Notes de missions.md",
+    "Gameplay/MJ/Missions/Rage against the machine/Knight_codex-09.pdf",
+    "Gameplay/MJ/Missions/Rage against the machine/Images/mecaniste.png",
+    "Gameplay/Player/PDF livres/Knight-2023.pdf",
+    "Gameplay/Player/PDF livres/Knight_codex-08.pdf",
+    "Gameplay/MJ/Musiques/PALOMYDES.mp3",
+    "Gameplay/MJ/Missions/Rage against the machine/Images/RESTAURANT.png",
+    "Gameplay/MJ/Missions/Rage against the machine/Images/SALLE_DE_BALLET.png",
+    "Gameplay/MJ/Missions/Rage against the machine/Images/Salle_des_machines.png",
+    "Gameplay/MJ/Missions/Rage against the machine/Images/souterrain_4.png",
+    "Gameplay/MJ/Missions/Rage against the machine/Images/souterrain6.png",
+    "Gameplay/MJ/Missions/Rage against the machine/Images/souterrain7.png",
+    "Gameplay/MJ/Missions/Rage against the machine/Images/vue_aerienne_thorpe_park_6.png",
+    "Gameplay/MJ/Missions/Rage against the machine/Images/Hall_Ismael_Jhelam_-_accueil.png",
+    "Gameplay/MJ/Missions/Rage against the machine/Images/Galerie_Niakate.png",
+    "Untitled.md",
+    "Welcome.md",
+    "Gameplay/Player/PDF livres/Knight_Codex-04.pdf",
     "Gameplay/Player/PDF livres/Knight_LdB.pdf",
-    "Gameplay/Player/Arsenal/Effets/Ultraviolence.md",
-    "Gameplay/Player/Arsenal/Effets/Anti-véhicule.md",
-    "Gameplay/Player/Arsenal/Effets/Précision.md",
-    "Gameplay/Player/Arsenal/Effets/Tir en sécurité.md",
-    "Gameplay/Player/Arsenal/Effets/Tir en rafale.md",
-    "Gameplay/Player/Arsenal/Effets/Soumission.md",
-    "Gameplay/Player/Arsenal/Effets/Silencieux.md",
-    "Gameplay/Player/Arsenal/Effets/Perce armure.md",
-    "Gameplay/Player/Arsenal/Effets/Pénétrant.md",
-    "Gameplay/Player/Arsenal/Effets/Parasitage.md",
+    "Gameplay/Player/PDF livres/Knight_2038_V1.5.pdf",
+    "Gameplay/Player/PDF livres/Knight_codex-03.pdf",
+    "Gameplay/MJ/Missions/PDF/Knight_Codex-06.pdf",
+    "Gameplay/MJ/Missions/Le mystère du Louvre/Acte 1 Louvre.md",
+    "Gameplay/MJ/Missions/Le mystère du Louvre/Acte 2 Louvre.md",
+    "Gameplay/MJ/Missions/Le Felon/Notes missions Le Felon.md",
+    "Gameplay/MJ/Missions/Le mystère du Louvre/Notes de mission.md",
+    "Gameplay/MJ/Missions/Le Felon/Acte 4 Le Felon.md",
+    "Gameplay/MJ/Missions/Le Felon/Acte 3 Le Felon.md",
+    "Arthur.md",
+    "Drawing 2024-07-03 13.22.48.excalidraw.md",
+    "_.md",
+    "Gameplay/MJ/Missions/Le Felon/Acte 1 Le Felon.md",
+    "Gameplay/MJ/Missions/Le Felon/Acte 2 Le Félon.md",
+    "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
+    "Gameplay/Player/Arsenal/Effets/Anti-Anathème.md",
     "Gameplay/Player/Arsenal/Effets/Orfèvrerie.md",
     "Gameplay/Player/Arsenal/Effets/Meurtrier.md",
     "Gameplay/Player/Arsenal/Effets/Lumière.md",
-    "Gameplay/Player/Arsenal/Effets/Défense X.md",
-    "Gameplay/Player/Arsenal/Effets/Assistance à l’attaque.md",
+    "Gameplay/Player/Arsenal/Effets/Lourd.md",
     "Gameplay/Player/Arsenal/Effets/Lesté.md",
-    "Gameplay/Player/Arsenal/Effets",
-    "Gameplay/Player/Arsenal/Knight_cartes_arsenal.pdf",
-    "Gameplay/MJ/Musiques/LAMORAK.mp3",
-    "Gameplay/MJ/Musiques/LANCELOT.mp3",
+    "Gameplay/Player/Arsenal/Effets/Jumelé (ambidextrie).md",
+    "Gameplay/Player/Arsenal/Effets/Jumelé (akimbo).md",
+    "Gameplay/Player/Arsenal/Effets/Ignore CdF.md",
+    "Gameplay/Player/Arsenal/Effets/Ignore armure.md",
+    "Gameplay/MJ/Missions/Le Felon/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

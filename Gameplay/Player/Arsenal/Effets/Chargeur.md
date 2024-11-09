@@ -9,4 +9,4 @@ L’arme ou le [[module]] dispose d’un nombre d’utilisations indiqué par X.
 
 # Exemple : 
 
-Le personnage d’Élodie utilise le profil de tir de son [[marteau-épieu]] qui possède l’effet chargeur 1. Une fois la charge tirée, elle ne peut donc plus faire feu avec le profil de tir. Elle devra attendre d’être à [[Camelot]] pour le recharger et pouvoir l’utiliser de nouveau
+Le personnage d’[[Élodie]] utilise le profil de tir de son [[marteau-épieu]] qui possède l’effet chargeur 1. Une fois la charge tirée, elle ne peut donc plus faire feu avec le profil de tir. Elle devra attendre d’être à [[Camelot]] pour le recharger et pouvoir l’utiliser de nouveau
