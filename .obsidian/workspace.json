@@ -11,8 +11,12 @@
             "id": "0d5ffef7d164d445",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Knight.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knight.md"
+              }
             }
           },
           {
@@ -157,6 +165,22 @@
             "state": {
               "type": "CALENDARIUM"
             }
+          },
+          {
+            "id": "7ad0d42ed2b6b0f7",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "0cc0bf06ecbe18ac",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 6
@@ -182,8 +206,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,25 +216,36 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "0d5ffef7d164d445",
   "lastOpenFiles": [
     "Gameplay/MJ/Bestiaire/Bestiaire.md",
+    "Knight.md",
+    "Gameplay/MJ/Missions/Le Felon/Notes de mission.md",
+    "conflict-files-obsidian-git.md",
+    "Screenshot from 2024-05-31 16-11-30.png",
+    "Untitled.canvas",
+    "Screenshot from 2024-05-31 16-12-01.png",
+    "Screenshot from 2024-05-31 16-11-53.png",
+    "Screenshot from 2024-05-31 16-11-43.png",
+    "Screenshot from 2024-05-31 16-11-36.png",
+    "Screenshot from 2024-05-31 16-11-23.png",
+    "Screenshot from 2024-05-31 16-11-20.png",
+    "Untitled.md",
+    "Gameplay/MJ/Missions/Le Felon/Images/Monsieur Pendulum.png",
+    "Gameplay/MJ/Missions/Le Felon/Images",
+    "Gameplay/MJ/Missions/Le Felon",
+    "Gameplay/MJ/Missions",
+    "Gameplay/MJ/Untitled.canvas",
     "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
     "Gameplay/Player/Arsenal/Armes/SHOTGUN_ESCAMOTABLE_img.png",
-    "Knight.md",
     "Images/bedivere.jpg",
-    "conflict-files-obsidian-git.md",
     "Gameplay/MJ/Bestiaire",
     "Gameplay/MJ",
-    "Gameplay/Player/Arsenal/Armures/Druid/druid.png",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Logo_barbarian.png",
-    "Images/Logo_barbarian 1.png",
-    "Gameplay/Player/Arsenal/Armures/Druid/druid-crow.png",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/barbarian.png",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/barbarian 1.png",
     "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
     "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
     "Excalidraw/Drawing 2024-05-24 15.01.12.excalidraw.md",
@@ -232,37 +265,11 @@
     "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
     "Gameplay/Player/Arsenal/Méta-armure.md",
     "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
-    "Gameplay/Player/Arsenal/Armures/Wizard/Mode Oriflamme.md",
-    "Gameplay/Player/Arsenal/Armures/Wizard/Wizard.md",
-    "Gameplay/Player/style combats/Carte_combat_aggressif.png",
-    "Gameplay/Player/style combats/Carte_combat_Akimbo.png",
     "js_scripts/js1.js",
     "js_scripts",
     "Gameplay/Player/style combats",
     "Excalidraw",
-    "Images/wizard.png",
-    "Images/warrior.png",
-    "Images/warmaster.png",
-    "Images/warlock.png",
-    "Images/sorcerer.png",
-    "Images/shaman.png",
-    "Images/rogue.png",
-    "Images/ranger.png",
-    "Images/psion.png",
-    "Images/priest.png",
-    "Images/paladin.png",
     "Images",
-    "Gameplay/Player/Arsenal/Armures/Wizard",
-    "Gameplay/Player/Arsenal/Armures/Warrior",
-    "Gameplay/Player/Arsenal/Armures/Warmaster",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Rewind.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Record.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Mode Forward.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer",
-    "Gameplay/Player/Arsenal/Armures/Shaman",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
