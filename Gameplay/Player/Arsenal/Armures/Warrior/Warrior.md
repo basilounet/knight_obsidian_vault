@@ -32,18 +32,18 @@ Au final, l'[[Méta-armure|armure]] [[Warrior]] est ce qui se fait de mieux pour
 | Bras Gauche | Jambe Gauche | Torse | Tete | Bras Droit | Jambe Droite |
 | :---------: | :----------: | :---: | :--: | :--------: | :----------: |
 |     10      |      7       |  12   |  7   |     10     |      7       |
-# Overdrives
+# [[Overdrives]]
 
-| [[Déplacement]] | [[Combat]] | [[Tir]] | [[Dextérité]] |
-| :-------------: | :--------: | :-----: | :-----------: |
-|        1        |     1      |    1    |       1       |
+| [[OD_Déplacement\|Déplacement]] | [[OD_Combat\|Combat]] | [[OD_Tir\|Tir]] | [[OD_Dextérité\|Dextérité]] |
+| :-----------------------------: | :-------------------: | :-------------: | :-------------------------: |
+|                1                |           1           |        1        |              1              |
 
 # Capacités
 ![[Type]]
 
 # Évolution
-| PG  | Description                                                                                                                                     |
-| :-: | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 150 | Activer un [[type]] ne coûte plus d’action.                                                                                                     |
-| 200 | Le [[chevalier]] possède tous les [[Type\|types]].                                                                                              |
-| 250 | Les [[Type Scout\|types]] offrent désormais 2 niveaux d'[[overdrive]] dans chaque [[caractéristique]] d’un [[aspect]] lorsqu’ils sont déployés. |
+| PG  | Description                                                                                                                                                 |
+| :-: | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 150 | Activer un [[type]] ne coûte plus d’action.                                                                                                                 |
+| 200 | Le [[chevalier]] possède tous les [[Type\|types]].                                                                                                          |
+| 250 | Les [[Type Scout\|types]] offrent désormais 2 niveaux d'[[Overdrives\|overdrive]] dans chaque [[caractéristique]] d’un [[aspect]] lorsqu’ils sont déployés. |

@@ -28,11 +28,11 @@ Dotée d'un blindage de 5 centimètres et pourvue d'un [[réacteur]] solide, la 
 | Bras Gauche | Jambe Gauche | Torse | Tete | Bras Droit | Jambe Droite |
 | :---------: | :----------: | :---: | :--: | :--------: | :----------: |
 |      5      |      5       |   8   |  5   |     5      |      5       |
-# Overdrives
+# [[Overdrives]]
 
-| [[Force]] | [[Endurance]] | [[Aura]] | [[Sang-froid]] |
-| :-------: | :-----------: | :------: | :------------: |
-|     1     |       1       |    1     |       1        |
+| [[OD_Force\|Force]] | [[OD_Endurance\|Endurance]] | [[OD_Aura\|Aura]] | [[OD_Sang-froid\|Sang-froid]] |
+| :-----------------: | :-------------------------: | :---------------: | :---------------------------: |
+|          1          |              1              |         1         |               1               |
 
 # Capacités
 ![[Mode Warlord]]

@@ -98,24 +98,7 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [
-      {
-        "name": "SHOTGUN ESCAMOTABLE",
-        "initiative": 9,
-        "static": false,
-        "modifier": 0,
-        "hp": 0,
-        "currentMaxHP": 0,
-        "id": "ID_6a19ebe88a79",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      }
-    ],
+    "creatures": [],
     "state": false,
     "name": null,
     "round": 1,

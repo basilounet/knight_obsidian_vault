@@ -28,11 +28,11 @@ Dans le dos et sur toute la surface de la [[méta-armure]], des réseaux de nano
 | Bras Gauche | Jambe Gauche | Torse | Tete | Bras Droit | Jambe Droite |
 | :---------: | :----------: | :---: | :--: | :--------: | :----------: |
 |      5      |      5       |   8   |  5   |     5      |      5       |
-# Overdrives
+# [[Overdrives]]
 
-| [[Déplacement]] | [[Combat]] | [[Discrétion]] | [[Dextérité]] |
-| :-------------: | :--------: | :------------: | :-----------: |
-|        1        |     1      |       1        |       1       |
+| [[OD_Déplacement\|Déplacement]] | [[OD_Combat\|Combat]] | [[OD_Discrétion\|Discrétion]] | [[OD_Dextérité\|Dextérité]] |
+| :-----------------------------: | :-------------------: | :---------------------------: | :-------------------------: |
+|                1                |           1           |               1               |              1              |
 # Capacités
 
 ![[Mode Ghost]]

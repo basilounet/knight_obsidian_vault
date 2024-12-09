@@ -16,7 +16,7 @@ Toutes les [[armes]] à projectiles ou un peu trop évoluées technologiquement 
 
 L’utilisation des capacités de cette [[méta-armure]] met à mal l’intégrité temporelle du personnage. À chaque fois qu’il active une de ses trois capacités de [[méta-armure]] durant une scène ou une phase de conflit, le personnage doit le noter. Une fois la scène ou la phase terminée, il peut effacer ses notes.
 
-Après la première utilisation, à chaque fois qu’il utilise une de ses trois capacités de [[méta-armure]], le personnage doit effectuer un test base _[[Sang-Froid]]_ ou _[[Hargne]]_, sans prendre en compte les [[overdrives]], pour résister aux effets temporels. La difficulté du test est égale au nombre d’utilisations de capacités de la [[méta-armure]] durant la scène ou la phase de conflit.
+Après la première utilisation, à chaque fois qu’il utilise une de ses trois capacités de [[méta-armure]], le personnage doit effectuer un test base _[[Sang-Froid]]_ ou _[[Hargne]]_, sans prendre en compte les [[Overdrives]], pour résister aux effets temporels. La difficulté du test est égale au nombre d’utilisations de capacités de la [[méta-armure]] durant la scène ou la phase de conflit.
 
 Si le teste échoue, le personnage doit lancer 2D6 et se référer au tableau suivant :
 

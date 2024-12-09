@@ -27,11 +27,11 @@ La [[méta-armure]] [[Shaman]] a pour principe de fonctionnement de matérialise
 | Bras Gauche | Jambe Gauche | Torse | Tete | Bras Droit | Jambe Droite |
 | :---------: | :----------: | :---: | :--: | :--------: | :----------: |
 |      5      |      5       |   8   |  5   |     5      |      5       |
-# Overdrives
+# [[Overdrives]]
 
-| [[Hargne]] | [[Savoir]] | [[Technique]] | [[Sang-froid]] |
-| :--------: | :--------: | :-----------: | :------------: |
-|     1      |     1      |       1       |       1        |
+| [[OD_Hargne\|Hargne]] | [[OD_Savoir\|Savoir]] | [[OD_Technique\|Technique]] | [[OD_Sang-froid\|Sang-froid]] |
+| :-------------------: | :-------------------: | :-------------------------: | :---------------------------: |
+|           1           |           1           |              1              |               1               |
 # Capacités
 
 ![[Mode Totem]]

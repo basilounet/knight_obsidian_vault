@@ -32,11 +32,11 @@ Enfin, les [[chevalier|chevaliers]] portant une [[méta-armure]] [[Monk]] doiven
 | Bras Gauche | Jambe Gauche | Torse | Tete | Bras Droit | Jambe Droite |
 | :---------: | :----------: | :---: | :--: | :--------: | :----------: |
 |      8      |      6       |  10   |  7   |     8      |      6       |
-# Overdrives
+# [[Overdrives]]
 
-| [[Hargne]] | [[Combat]] | [[Tir]] | [[Sang-froid]] |
-| :--------: | :--------: | :-----: | :------------: |
-|     1      |     1      |    1    |       1        |
+| [[OD_Hargne\|Hargne]] | [[OD_Combat\|Combat]] | [[OD_Tir\|Tir]] | [[OD_Sang-froid\|Sang-froid]] |
+| :-------------------: | :-------------------: | :-------------: | :---------------------------: |
+|           1           |           1           |        1        |               1               |
 
 # Capacités
 ![[Mode Céa]]

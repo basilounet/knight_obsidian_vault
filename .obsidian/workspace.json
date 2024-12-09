@@ -4,19 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "5f39556d44e8dc1b",
+        "id": "692bda25983fa0de",
         "type": "tabs",
         "children": [
           {
-            "id": "0d5ffef7d164d445",
+            "id": "6d72336af1fb097c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knight.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9a6c90d5c314fafd",
+        "type": "tabs",
+        "dimension": 34.22693266832918,
+        "children": [
+          {
+            "id": "6a5ae19bd182f94d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +65,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Joueur",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +81,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 313.5
   },
   "right": {
     "id": "c68fd197443fa0d0",
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knight.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Knight_codex-09"
             }
           },
           {
@@ -102,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knight.md",
+                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Knight_codex-09"
             }
           },
           {
@@ -116,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knight.md"
+                "file": "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md"
               }
             }
           },
@@ -134,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -142,70 +171,77 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
             "id": "3fc1e09fb6bae066",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM"
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
             "id": "7e5ead34dd0e1899",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM"
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
             "id": "6ae3c7200e5c6dc6",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM"
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
-            "id": "7ad0d42ed2b6b0f7",
+            "id": "17799009a0ebbf6f",
             "type": "leaf",
             "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "0cc0bf06ecbe18ac",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       },
       {
-        "id": "fe54c841f7a6f704",
+        "id": "e66d96c948b6a4ef",
         "type": "tabs",
         "children": [
           {
-            "id": "dcd4233f99f74a80",
+            "id": "e6f641077cba0615",
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
-              "state": {}
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 475.5,
+    "width": 373.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -216,60 +252,52 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0d5ffef7d164d445",
+  "active": "6d72336af1fb097c",
   "lastOpenFiles": [
-    "Gameplay/MJ/Bestiaire/Bestiaire.md",
-    "Knight.md",
-    "Gameplay/MJ/Missions/Le Felon/Notes de mission.md",
-    "conflict-files-obsidian-git.md",
-    "Screenshot from 2024-05-31 16-11-30.png",
-    "Untitled.canvas",
-    "Screenshot from 2024-05-31 16-12-01.png",
-    "Screenshot from 2024-05-31 16-11-53.png",
-    "Screenshot from 2024-05-31 16-11-43.png",
-    "Screenshot from 2024-05-31 16-11-36.png",
-    "Screenshot from 2024-05-31 16-11-23.png",
-    "Screenshot from 2024-05-31 16-11-20.png",
-    "Untitled.md",
-    "Gameplay/MJ/Missions/Le Felon/Images/Monsieur Pendulum.png",
-    "Gameplay/MJ/Missions/Le Felon/Images",
-    "Gameplay/MJ/Missions/Le Felon",
-    "Gameplay/MJ/Missions",
-    "Gameplay/MJ/Untitled.canvas",
-    "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
-    "Gameplay/Player/Arsenal/Armes/SHOTGUN_ESCAMOTABLE_img.png",
-    "Images/bedivere.jpg",
-    "Gameplay/MJ/Bestiaire",
-    "Gameplay/MJ",
-    "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
-    "Gameplay/Player/Arsenal/Armures/Ranger/Fusil de précision polymorphe polycalibre Longbow.md",
-    "Excalidraw/Drawing 2024-05-24 15.01.12.excalidraw.md",
-    "Gameplay/Player/Arsenal/Armures/Bard/Bard.md",
-    "Gameplay/Player/Arsenal/Armures/Druid/Druid.md",
-    "Gameplay/Player/Arsenal/Armures/Monk/Monk.md",
-    "Gameplay/Player/Arsenal/Armures/Paladin/Paladin.md",
-    "Gameplay/Player/Arsenal/Armures/Priest/Mode nanoC.md",
-    "Gameplay/Player/Arsenal/Armures/Priest/Priest.md",
-    "Gameplay/Player/Arsenal/Armures/Psion/Psion.md",
-    "Gameplay/Player/Arsenal/Armures/Ranger/Ranger.md",
-    "Gameplay/Player/Arsenal/Armures/Rogue/Rogue.md",
-    "Gameplay/Player/Arsenal/Armures/Shaman/Shaman.md",
-    "Gameplay/Player/Arsenal/Armures/Sorcerer/Sorcerer.md",
-    "Gameplay/Player/Arsenal/Armures/Warmaster/Warmaster.md",
-    "Gameplay/Player/Arsenal/Armures/Warlock/Warlock.md",
-    "Gameplay/Player/Arsenal/Armures/Warrior/Warrior.md",
     "Gameplay/Player/Arsenal/Méta-armure.md",
-    "Gameplay/Player/Arsenal/Armures/Wizard/Mode Borealis.md",
-    "js_scripts/js1.js",
-    "js_scripts",
-    "Gameplay/Player/style combats",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Barbarian.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian/Mode Goliath.md",
+    "Gameplay/Player/Arsenal/Armures/Knight_Cartes-armures.pdf",
+    "barbarian.png",
+    "Gameplay/Player/Arsenal/Effets/Ignore CdF.md",
+    "Excalidraw/Drawing 2024-05-15 15.35.25.excalidraw.md",
+    "Gameplay/Player/Arsenal/Armes/Armes_distance.md",
+    "logo_distance.png",
+    "logo_cac.png",
+    "bedivere.jpg",
+    "Logo_barbarian.png",
+    "Gameplay/Player/Arsenal/Effet.md",
+    "Gameplay/Player/Arsenal/Armures/Barbarian",
+    "Gameplay/Player/Arsenal/Armures",
+    "Gameplay/Player/Arsenal/Armes",
     "Excalidraw",
-    "Images",
+    "Gameplay/Player/Arsenal/effet.md",
+    "Gameplay/Player/Arsenal/Effets/Anti-Anathème.md",
+    "Gameplay/Player/PDF livres/Knight_LdB.pdf",
+    "Gameplay/Player/Arsenal/Effets/Ultraviolence.md",
+    "Gameplay/Player/Arsenal/Effets/Anti-véhicule.md",
+    "Gameplay/Player/Arsenal/Effets/Précision.md",
+    "Gameplay/Player/Arsenal/Effets/Tir en sécurité.md",
+    "Gameplay/Player/Arsenal/Effets/Tir en rafale.md",
+    "Gameplay/Player/Arsenal/Effets/Soumission.md",
+    "Gameplay/Player/Arsenal/Effets/Silencieux.md",
+    "Gameplay/Player/Arsenal/Effets/Perce armure.md",
+    "Gameplay/Player/Arsenal/Effets/Pénétrant.md",
+    "Gameplay/Player/Arsenal/Effets/Parasitage.md",
+    "Gameplay/Player/Arsenal/Effets/Orfèvrerie.md",
+    "Gameplay/Player/Arsenal/Effets/Meurtrier.md",
+    "Gameplay/Player/Arsenal/Effets/Lumière.md",
+    "Gameplay/Player/Arsenal/Effets/Défense X.md",
+    "Gameplay/Player/Arsenal/Effets/Assistance à l’attaque.md",
+    "Gameplay/Player/Arsenal/Effets/Lesté.md",
+    "Gameplay/Player/Arsenal/Effets",
+    "Gameplay/Player/Arsenal/Knight_cartes_arsenal.pdf",
+    "Gameplay/MJ/Musiques/LAMORAK.mp3",
+    "Gameplay/MJ/Musiques/LANCELOT.mp3",
+    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

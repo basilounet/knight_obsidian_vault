@@ -9,7 +9,7 @@ La [[méta-armure]] [[Druid]] est capable de générer trois types de [[compagno
 
 Chaque type de [[Compagnons|compagnon]] dure le temps d’une scène ou d’une phase de conflit. Pour prolonger la « vie » d’un type de [[Compagnons|compagnon]] lors de la scène ou de la phase de conflit suivante, le [[chevalier]] doit dépenser la moitié des [[PE]] qu’il dépenserait normalement. L’activation coûte 6 secondes, ou un tour complet. Désactiver un [[Compagnons|compagnon]] ne coûte ni [[PE]], ni action.
 
-Si un [[chevalier]] souhaite changer de type de [[Compagnons|compagnon]] alors qu’un type est déjà présent, il doit de nouveau payer le coût normal en [[PE]] et utiliser l’activation standard du mod. Le [[Compagnons|compagnon]] présent tombe en scories de [[nanomachines]] alors qu’un autre se crée, ses [[PA]] et ses [[PE]] étant au maximum.
+Si un [[chevalier]] souhaite changer de type de [[Compagnons|compagnon]] alors qu’un type est déjà présent, il doit de nouveau payer le coût normal en [[PE]] et utiliser l’activation standard du mode. Le [[Compagnons|compagnon]] présent tombe en scories de [[nanomachines]] alors qu’un autre se crée, ses [[PA]] et ses [[PE]] étant au maximum.
 
 Dans tous les cas, si les [[PA]] (ou la [[cohésion]]) du type de [[Compagnons|compagnon]] créé tombent à zéro, il est détruit. Un nouveau type de [[Compagnons|compagnon]] peut être créé pour un coût normal en énergie.
 

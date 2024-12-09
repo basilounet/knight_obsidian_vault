@@ -28,11 +28,11 @@ Il est à noter que, suite aux superbes résultats obtenus sur les différents t
 | Bras Gauche | Jambe Gauche | Torse | Tete | Bras Droit | Jambe Droite |
 | :---------: | :----------: | :---: | :--: | :--------: | :----------: |
 |     10      |      7       |  12   |  7   |     10     |      7       |
-# Overdrives
+# [[Overdrives]]
 
-| [[Instinct]] | [[Savoir]] | [[Sang-froid]] | [[Perception]] |
-| :----------: | :--------: | :------------: | :------------: |
-|      1       |     1      |       1        |       1        |
+| [[OD_Instinct\|Instinct]] | [[OD_Savoir\|Savoir]] | [[OD_Sang-froid\|Sang-froid]] | [[OD_Perception\|Perception]] |
+| :-----------------------: | :-------------------: | :---------------------------: | :---------------------------: |
+|             1             |           1           |               1               |               1               |
 # Capacités
 ### Récolte du flux
 

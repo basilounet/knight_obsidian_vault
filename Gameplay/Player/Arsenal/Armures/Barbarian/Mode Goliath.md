@@ -10,7 +10,7 @@ La [[méta-armure]], en générant de la matière grâce aux [[nanomachines]] qu
 
 Par mètre gagné, le PJ se voit octroyer les bonus suivants :
 
-- 1 réussite à n’importe quel jet incluant la _[[Force]]_ ou l’_[[Endurance]]_ et 5 tonnes supplémentaires soulevées qui s’ajoutent aux bonus d’éventuels [[overdrives]]. Si un jet inclus les caractéristiques _[[Force]]_ et _[[Endurance]]_, le bonus s’élève alors à 2 réussites (une par caractéristique).
+- 1 réussite à n’importe quel jet incluant la _[[Force]]_ ou l’_[[Endurance]]_ et 5 tonnes supplémentaires soulevées qui s’ajoutent aux bonus d’éventuels [[Overdrives]]. Si un jet inclus les caractéristiques _[[Force]]_ et _[[Endurance]]_, le bonus s’élève alors à 2 réussites (une par caractéristique).
 - 1D6 supplémentaire à ses dégâts et à sa violence en combat au contact.
 - 1 point de [[CdF]].
 
